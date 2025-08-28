@@ -1,0 +1,12 @@
+# 0) (처음 1회) 로그인
+npx wrangler login
+
+# 1) 프로젝트 빌드 (Vite: dist, CRA: build)
+npm run build   # 결과 폴더 확인: dist/ 또는 build/
+
+# 2) Pages 프로젝트 생성(최초 1회만) - 진행 함, 참고만
+npx wrangler pages project create my-react-app --production-branch main
+
+# 3) 배포
+# Vite
+npx wrangler pages deploy dist

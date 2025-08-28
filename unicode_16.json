@@ -1,0 +1,3200 @@
+[
+    {
+      "sg": "European Scripts",
+      "mb": "Armenian",
+      "title": "0530-058F",
+      "href": "https://www.unicode.org/charts/PDF/U0530.pdf",
+      "start": "0530",
+      "end": "058F"
+    },
+    {
+      "sg": "European Scripts",
+      "mb": "Armenian",
+      "pb": "Armenian Ligatures",
+      "title": "FB13-FB17",
+      "href": "https://www.unicode.org/charts/PDF/UFB00.pdf",
+      "start": "FB13",
+      "end": "FB17"
+    },
+    {
+      "sg": "European Scripts",
+      "mb": "Carian",
+      "title": "102A0-102DF",
+      "href": "https://www.unicode.org/charts/PDF/U102A0.pdf",
+      "start": "102A0",
+      "end": "102DF"
+    },
+    {
+      "sg": "European Scripts",
+      "mb": "Caucasian Albanian",
+      "title": "10530-1056F",
+      "href": "https://www.unicode.org/charts/PDF/U10530.pdf",
+      "start": "10530",
+      "end": "1056F"
+    },
+    {
+      "sg": "European Scripts",
+      "mb": "Cypriot Syllabary",
+      "title": "10800-1083F",
+      "href": "https://www.unicode.org/charts/PDF/U10800.pdf",
+      "start": "10800",
+      "end": "1083F"
+    },
+    {
+      "sg": "European Scripts",
+      "mb": "Cypro-Minoan",
+      "title": "12F90–12FFF",
+      "href": "https://www.unicode.org/charts/PDF/U12F90.pdf",
+      "start": "12F90",
+      "end": "12FFF"
+    },
+    {
+      "sg": "European Scripts",
+      "mb": "Cyrillic",
+      "title": "0400-04FF",
+      "href": "https://www.unicode.org/charts/PDF/U0400.pdf",
+      "start": "0400",
+      "end": "04FF"
+    },
+    {
+      "sg": "European Scripts",
+      "mb": "Cyrillic",
+      "sb": "Cyrillic Supplement",
+      "title": "0500-052F",
+      "href": "https://www.unicode.org/charts/PDF/U0500.pdf",
+      "start": "0500",
+      "end": "052F"
+    },
+    {
+      "sg": "European Scripts",
+      "mb": "Cyrillic",
+      "sb": "Cyrillic Extended-A",
+      "title": "2DE0-2DFF",
+      "href": "https://www.unicode.org/charts/PDF/U2DE0.pdf",
+      "start": "2DE0",
+      "end": "2DFF"
+    },
+    {
+      "sg": "European Scripts",
+      "mb": "Cyrillic",
+      "sb": "Cyrillic Extended-B",
+      "title": "A640-A69F",
+      "href": "https://www.unicode.org/charts/PDF/UA640.pdf",
+      "start": "A640",
+      "end": "A69F"
+    },
+    {
+      "sg": "European Scripts",
+      "mb": "Cyrillic",
+      "sb": "Cyrillic Extended-C",
+      "title": "1C80-1C8F",
+      "href": "https://www.unicode.org/charts/PDF/U1C80.pdf",
+      "start": "1C80",
+      "end": "1C8F"
+    },
+    {
+      "sg": "European Scripts",
+      "mb": "Cyrillic",
+      "sb": "Cyrillic Extended-D",
+      "title": "1E030–1E08F",
+      "href": "https://www.unicode.org/charts/PDF/U1E030.pdf",
+      "start": "1E030",
+      "end": "1E08F"
+    },
+    {
+      "sg": "European Scripts",
+      "mb": "Elbasan",
+      "title": "10500-1052F",
+      "href": "https://www.unicode.org/charts/PDF/U10500.pdf",
+      "start": "10500",
+      "end": "1052F"
+    },
+    {
+      "sg": "European Scripts",
+      "mb": "Georgian",
+      "title": "10A0-10FF",
+      "href": "https://www.unicode.org/charts/PDF/U10A0.pdf",
+      "start": "10A0",
+      "end": "10FF"
+    },
+    {
+      "sg": "European Scripts",
+      "mb": "Georgian",
+      "sb": "Georgian Extended",
+      "title": "1C90-1CBF",
+      "href": "https://www.unicode.org/charts/PDF/U1C90.pdf",
+      "start": "1C90",
+      "end": "1CBF"
+    },
+    {
+      "sg": "European Scripts",
+      "mb": "Georgian",
+      "sb": "Georgian Supplement",
+      "title": "2D00-2D2F",
+      "href": "https://www.unicode.org/charts/PDF/U2D00.pdf",
+      "start": "2D00",
+      "end": "2D2F"
+    },
+    {
+      "sg": "European Scripts",
+      "mb": "Glagolitic",
+      "title": "2C00-2C5F",
+      "href": "https://www.unicode.org/charts/PDF/U2C00.pdf",
+      "start": "2C00",
+      "end": "2C5F"
+    },
+    {
+      "sg": "European Scripts",
+      "mb": "Glagolitic",
+      "sb": "Glagolitic Supplement",
+      "title": "1E000-1E02F",
+      "href": "https://www.unicode.org/charts/PDF/U1E000.pdf",
+      "start": "1E000",
+      "end": "1E02F"
+    },
+    {
+      "sg": "European Scripts",
+      "mb": "Gothic",
+      "title": "10330-1034F",
+      "href": "https://www.unicode.org/charts/PDF/U10330.pdf",
+      "start": "10330",
+      "end": "1034F"
+    },
+    {
+      "sg": "European Scripts",
+      "mb": "Greek",
+      "title": "0370-03FF",
+      "href": "https://www.unicode.org/charts/PDF/U0370.pdf",
+      "start": "0370",
+      "end": "03FF"
+    },
+    {
+      "sg": "European Scripts",
+      "mb": "Greek",
+      "sb": "Greek Extended",
+      "title": "1F00-1FFF",
+      "href": "https://www.unicode.org/charts/PDF/U1F00.pdf",
+      "start": "1F00",
+      "end": "1FFF"
+    },
+    {
+      "sg": "European Scripts",
+      "mb": "Greek",
+      "sb": "Ancient Greek Numbers",
+      "title": "10140-1018F",
+      "href": "https://www.unicode.org/charts/PDF/U10140.pdf",
+      "start": "10140",
+      "end": "1018F"
+    },
+    {
+      "sg": "European Scripts",
+      "mb": "Latin",
+      "title": "0000-007F",
+      "href": "https://www.unicode.org/charts/PDF/U0000.pdf",
+      "start": "0000",
+      "end": "007F"
+    },
+    {
+      "sg": "European Scripts",
+      "mb": "Latin",
+      "sb": "Basic Latin (ASCII)",
+      "title": "0000-007F",
+      "href": "https://www.unicode.org/charts/PDF/U0000.pdf",
+      "start": "0000",
+      "end": "007F"
+    },
+    {
+      "sg": "European Scripts",
+      "mb": "Latin",
+      "sb": "Latin-1 Supplement",
+      "title": "0080-00FF",
+      "href": "https://www.unicode.org/charts/PDF/U0080.pdf",
+      "start": "0080",
+      "end": "00FF"
+    },
+    {
+      "sg": "European Scripts",
+      "mb": "Latin",
+      "sb": "Latin Extended-A",
+      "title": "0100-017F",
+      "href": "https://www.unicode.org/charts/PDF/U0100.pdf",
+      "start": "0100",
+      "end": "017F"
+    },
+    {
+      "sg": "European Scripts",
+      "mb": "Latin",
+      "sb": "Latin Extended-B",
+      "title": "0180-024F",
+      "href": "https://www.unicode.org/charts/PDF/U0180.pdf",
+      "start": "0180",
+      "end": "024F"
+    },
+    {
+      "sg": "European Scripts",
+      "mb": "Latin",
+      "sb": "Latin Extended-C",
+      "title": "2C60-2C7F",
+      "href": "https://www.unicode.org/charts/PDF/U2C60.pdf",
+      "start": "2C60",
+      "end": "2C7F"
+    },
+    {
+      "sg": "European Scripts",
+      "mb": "Latin",
+      "sb": "Latin Extended-D",
+      "title": "A720-A7FF",
+      "href": "https://www.unicode.org/charts/PDF/UA720.pdf",
+      "start": "A720",
+      "end": "A7FF"
+    },
+    {
+      "sg": "European Scripts",
+      "mb": "Latin",
+      "sb": "Latin Extended-E",
+      "title": "AB30-AB6F",
+      "href": "https://www.unicode.org/charts/PDF/UAB30.pdf",
+      "start": "AB30",
+      "end": "AB6F"
+    },
+    {
+      "sg": "European Scripts",
+      "mb": "Latin",
+      "sb": "Latin Extended-F",
+      "title": "10780–107BF",
+      "href": "https://www.unicode.org/charts/PDF/U10780.pdf",
+      "start": "10780",
+      "end": "107BF"
+    },
+    {
+      "sg": "European Scripts",
+      "mb": "Latin",
+      "sb": "Latin Extended-G",
+      "title": "1DF00–1DFFF",
+      "href": "https://www.unicode.org/charts/PDF/U1DF00.pdf",
+      "start": "1DF00",
+      "end": "1DFFF"
+    },
+    {
+      "sg": "European Scripts",
+      "mb": "Latin",
+      "sb": "Latin Extended Additional",
+      "title": "1E00-1EFF",
+      "href": "https://www.unicode.org/charts/PDF/U1E00.pdf",
+      "start": "1E00",
+      "end": "1EFF"
+    },
+    {
+      "sg": "European Scripts",
+      "mb": "Latin",
+      "pb": "Latin Ligatures",
+      "title": "FB00-FB06",
+      "href": "https://www.unicode.org/charts/PDF/UFB00.pdf",
+      "start": "FB00",
+      "end": "FB06"
+    },
+    {
+      "sg": "European Scripts",
+      "mb": "Latin",
+      "pb": "Fullwidth Latin Letters",
+      "title": "FF00-FF5E",
+      "href": "https://www.unicode.org/charts/PDF/UFF00.pdf",
+      "start": "FF00",
+      "end": "FF5E"
+    },
+    {
+      "sg": "European Scripts",
+      "mb": "Latin",
+      "sb": "IPA Extensions",
+      "title": "0250-02AF",
+      "href": "https://www.unicode.org/charts/PDF/U0250.pdf",
+      "start": "0250",
+      "end": "02AF"
+    },
+    {
+      "sg": "European Scripts",
+      "mb": "Latin",
+      "sb": "Phonetic Extensions",
+      "title": "1D00-1D7F",
+      "href": "https://www.unicode.org/charts/PDF/U1D00.pdf",
+      "start": "1D00",
+      "end": "1D7F"
+    },
+    {
+      "sg": "European Scripts",
+      "mb": "Latin",
+      "sb": "Phonetic Extensions Supplement",
+      "title": "1D80-1DBF",
+      "href": "https://www.unicode.org/charts/PDF/U1D80.pdf",
+      "start": "1D80",
+      "end": "1DBF"
+    },
+    {
+      "sg": "European Scripts",
+      "mb": "Linear A",
+      "title": "10600-1077F",
+      "href": "https://www.unicode.org/charts/PDF/U10600.pdf",
+      "start": "10600",
+      "end": "1077F"
+    },
+    {
+      "sg": "European Scripts",
+      "mb": "Linear B",
+      "sb": "Linear B Syllabary",
+      "title": "10000-1007F",
+      "href": "https://www.unicode.org/charts/PDF/U10000.pdf",
+      "start": "10000",
+      "end": "1007F"
+    },
+    {
+      "sg": "European Scripts",
+      "mb": "Linear B",
+      "sb": "Linear B Ideograms",
+      "title": "10080-100FF",
+      "href": "https://www.unicode.org/charts/PDF/U10080.pdf",
+      "start": "10080",
+      "end": "100FF"
+    },
+    {
+      "sg": "European Scripts",
+      "mb": "Linear B",
+      "sb": "Aegean Numbers",
+      "title": "10100-1013F",
+      "href": "https://www.unicode.org/charts/PDF/U10100.pdf",
+      "start": "10100",
+      "end": "1013F"
+    },
+    {
+      "sg": "European Scripts",
+      "mb": "Lycian",
+      "title": "10280-1029F",
+      "href": "https://www.unicode.org/charts/PDF/U10280.pdf",
+      "start": "10280",
+      "end": "1029F"
+    },
+    {
+      "sg": "European Scripts",
+      "mb": "Lydian",
+      "title": "10920-1093F",
+      "href": "https://www.unicode.org/charts/PDF/U10920.pdf",
+      "start": "10920",
+      "end": "1093F"
+    },
+    {
+      "sg": "European Scripts",
+      "mb": "Ogham",
+      "title": "1680-169F",
+      "href": "https://www.unicode.org/charts/PDF/U1680.pdf",
+      "start": "1680",
+      "end": "169F"
+    },
+    {
+      "sg": "European Scripts",
+      "mb": "Old Hungarian",
+      "title": "10C80-10CFF",
+      "href": "https://www.unicode.org/charts/PDF/U10C80.pdf",
+      "start": "10C80",
+      "end": "10CFF"
+    },
+    {
+      "sg": "European Scripts",
+      "mb": "Old Italic",
+      "title": "10300-1032F",
+      "href": "https://www.unicode.org/charts/PDF/U10300.pdf",
+      "start": "10300",
+      "end": "1032F"
+    },
+    {
+      "sg": "European Scripts",
+      "mb": "Old Permic",
+      "title": "10350-1037F",
+      "href": "https://www.unicode.org/charts/PDF/U10350.pdf",
+      "start": "10350",
+      "end": "1037F"
+    },
+    {
+      "sg": "European Scripts",
+      "mb": "Phaistos Disc",
+      "title": "101D0-101FF",
+      "href": "https://www.unicode.org/charts/PDF/U101D0.pdf",
+      "start": "101D0",
+      "end": "101FF"
+    },
+    {
+      "sg": "European Scripts",
+      "mb": "Runic",
+      "title": "16A0-16FF",
+      "href": "https://www.unicode.org/charts/PDF/U16A0.pdf",
+      "start": "16A0",
+      "end": "16FF"
+    },
+    {
+      "sg": "European Scripts",
+      "mb": "Shavian",
+      "title": "10450-1047F",
+      "href": "https://www.unicode.org/charts/PDF/U10450.pdf",
+      "start": "10450",
+      "end": "1047F"
+    },
+    {
+      "sg": "European Scripts",
+      "mb": "Todhri",
+      "title": "105C0-105FF",
+      "href": "https://www.unicode.org/charts/PDF/U105C0.pdf",
+      "start": "105C0",
+      "end": "105FF"
+    },
+    {
+      "sg": "European Scripts",
+      "mb": "Vithkuqi",
+      "title": "10570–105BF",
+      "href": "https://www.unicode.org/charts/PDF/U10570.pdf",
+      "start": "10570",
+      "end": "105BF"
+    },
+    {
+      "sg": "Modifier Letters",
+      "mb": "Modifier Tone Letters",
+      "title": "A700-A71F",
+      "href": "https://www.unicode.org/charts/PDF/UA700.pdf",
+      "start": "A700",
+      "end": "A71F"
+    },
+    {
+      "sg": "Modifier Letters",
+      "mb": "Spacing Modifier Letters",
+      "title": "02B0-02FF",
+      "href": "https://www.unicode.org/charts/PDF/U02B0.pdf",
+      "start": "02B0",
+      "end": "02FF"
+    },
+    {
+      "sg": "Modifier Letters",
+      "mb": "Superscripts and Subscripts",
+      "title": "2070-209F",
+      "href": "https://www.unicode.org/charts/PDF/U2070.pdf",
+      "start": "2070",
+      "end": "209F"
+    },
+    {
+      "sg": "Combining Marks",
+      "mb": "Combining Diacritical Marks",
+      "title": "0300-036F",
+      "href": "https://www.unicode.org/charts/PDF/U0300.pdf",
+      "start": "0300",
+      "end": "036F"
+    },
+    {
+      "sg": "Combining Marks",
+      "mb": "Combining Diacritical Marks",
+      "sb": "Combining Diacritical Marks Extended",
+      "title": "1AB0-1AFF",
+      "href": "https://www.unicode.org/charts/PDF/U1AB0.pdf",
+      "start": "1AB0",
+      "end": "1AFF"
+    },
+    {
+      "sg": "Combining Marks",
+      "mb": "Combining Diacritical Marks",
+      "sb": "Combining Diacritical Marks Supplement",
+      "title": "1DC0-1DFF",
+      "href": "https://www.unicode.org/charts/PDF/U1DC0.pdf",
+      "start": "1DC0",
+      "end": "1DFF"
+    },
+    {
+      "sg": "Combining Marks",
+      "mb": "Combining Diacritical Marks for Symbols",
+      "title": "20D0-20FF",
+      "href": "https://www.unicode.org/charts/PDF/U20D0.pdf",
+      "start": "20D0",
+      "end": "20FF"
+    },
+    {
+      "sg": "Combining Marks",
+      "mb": "Combining Half Marks",
+      "title": "FE20-FE2F",
+      "href": "https://www.unicode.org/charts/PDF/UFE20.pdf",
+      "start": "FE20",
+      "end": "FE2F"
+    },
+    {
+      "sg": "Miscellaneous",
+      "mb": null,
+      "sb": "Alphabetic Presentation Forms",
+      "title": "FB00-FB4F",
+      "href": "https://www.unicode.org/charts/PDF/UFB00.pdf",
+      "start": "FB00",
+      "end": "FB4F"
+    },
+    {
+      "sg": "Miscellaneous",
+      "mb": null,
+      "pb": "ASCII Characters",
+      "title": "0000-007F",
+      "href": "https://www.unicode.org/charts/PDF/U0000.pdf",
+      "start": "0000",
+      "end": "007F"
+    },
+    {
+      "sg": "Miscellaneous",
+      "mb": null,
+      "sb": "Halfwidth and Fullwidth Forms",
+      "title": "FF00-FFEF",
+      "href": "https://www.unicode.org/charts/PDF/UFF00.pdf",
+      "start": "FF00",
+      "end": "FFEF"
+    },
+    {
+      "sg": "African Scripts",
+      "mb": "Adlam",
+      "title": "1E900-1E95F",
+      "href": "https://www.unicode.org/charts/PDF/U1E900.pdf",
+      "start": "1E900",
+      "end": "1E95F"
+    },
+    {
+      "sg": "African Scripts",
+      "mb": "Bamum",
+      "title": "A6A0-A6FF",
+      "href": "https://www.unicode.org/charts/PDF/UA6A0.pdf",
+      "start": "A6A0",
+      "end": "A6FF"
+    },
+    {
+      "sg": "African Scripts",
+      "mb": "Bamum",
+      "sb": "Bamum Supplement",
+      "title": "16800-16A3F",
+      "href": "https://www.unicode.org/charts/PDF/U16800.pdf",
+      "start": "16800",
+      "end": "16A3F"
+    },
+    {
+      "sg": "African Scripts",
+      "mb": "Bassa Vah",
+      "title": "16AD0-16AFF",
+      "href": "https://www.unicode.org/charts/PDF/U16AD0.pdf",
+      "start": "16AD0",
+      "end": "16AFF"
+    },
+    {
+      "sg": "African Scripts",
+      "mb": "Coptic",
+      "title": "2C80-2CFF",
+      "href": "https://www.unicode.org/charts/PDF/U2C80.pdf",
+      "start": "2C80",
+      "end": "2CFF"
+    },
+    {
+      "sg": "African Scripts",
+      "mb": "Coptic",
+      "pb": "Coptic in Greek block",
+      "title": "03E2-03EF",
+      "href": "https://www.unicode.org/charts/PDF/U0370.pdf",
+      "start": "03E2",
+      "end": "03EF"
+    },
+    {
+      "sg": "African Scripts",
+      "mb": "Coptic",
+      "sb": "Coptic Epact Numbers",
+      "title": "102E0-102FF",
+      "href": "https://www.unicode.org/charts/PDF/U102E0.pdf",
+      "start": "102E0",
+      "end": "102FF"
+    },
+    {
+      "sg": "African Scripts",
+      "mb": "Egyptian Hieroglyphs",
+      "title": "13000-1342F",
+      "href": "https://www.unicode.org/charts/PDF/U13000.pdf",
+      "start": "13000",
+      "end": "1342F"
+    },
+    {
+      "sg": "African Scripts",
+      "mb": "Egyptian Hieroglyphs",
+      "sb": "Egyptian Hieroglyph Format Controls",
+      "title": "13430-1345F",
+      "href": "https://www.unicode.org/charts/PDF/U13430.pdf",
+      "start": "13430",
+      "end": "1345F"
+    },
+    {
+      "sg": "African Scripts",
+      "mb": "Egyptian Hieroglyphs",
+      "sb": "Egyptian Hieroglyphs Extended-A",
+      "title": "13460-1355F",
+      "href": "https://www.unicode.org/charts/PDF/U13460.pdf",
+      "start": "13460",
+      "end": "1355F"
+    },
+    {
+      "sg": "African Scripts",
+      "mb": "Ethiopic",
+      "title": "1200-137F",
+      "href": "https://www.unicode.org/charts/PDF/U1200.pdf",
+      "start": "1200",
+      "end": "137F"
+    },
+    {
+      "sg": "African Scripts",
+      "mb": "Ethiopic",
+      "sb": "Ethiopic Supplement",
+      "title": "1380-139F",
+      "href": "https://www.unicode.org/charts/PDF/U1380.pdf",
+      "start": "1380",
+      "end": "139F"
+    },
+    {
+      "sg": "African Scripts",
+      "mb": "Ethiopic",
+      "sb": "Ethiopic Extended",
+      "title": "2D80-2DDF",
+      "href": "https://www.unicode.org/charts/PDF/U2D80.pdf",
+      "start": "2D80",
+      "end": "2DDF"
+    },
+    {
+      "sg": "African Scripts",
+      "mb": "Ethiopic",
+      "sb": "Ethiopic Extended-A",
+      "title": "AB00-AB2F",
+      "href": "https://www.unicode.org/charts/PDF/UAB00.pdf",
+      "start": "AB00",
+      "end": "AB2F"
+    },
+    {
+      "sg": "African Scripts",
+      "mb": "Ethiopic",
+      "sb": "Ethiopic Extended-B",
+      "title": "1E7E0–1E7FF",
+      "href": "https://www.unicode.org/charts/PDF/U1E7E0.pdf",
+      "start": "1E7E0",
+      "end": "1E7FF"
+    },
+    {
+      "sg": "African Scripts",
+      "mb": "Garay",
+      "title": "10D40-10D8F",
+      "href": "https://www.unicode.org/charts/PDF/U10D40.pdf",
+      "start": "10D40",
+      "end": "10D8F"
+    },
+    {
+      "sg": "African Scripts",
+      "mb": "Medefaidrin",
+      "title": "16E40-16E9F",
+      "href": "https://www.unicode.org/charts/PDF/U16E40.pdf",
+      "start": "16E40",
+      "end": "16E9F"
+    },
+    {
+      "sg": "African Scripts",
+      "mb": "Mende Kikakui",
+      "title": "1E800-1E8DF",
+      "href": "https://www.unicode.org/charts/PDF/U1E800.pdf",
+      "start": "1E800",
+      "end": "1E8DF"
+    },
+    {
+      "sg": "African Scripts",
+      "mb": "Meroitic",
+      "sb": "Meroitic Cursive",
+      "title": "109A0-109FF",
+      "href": "https://www.unicode.org/charts/PDF/U109A0.pdf",
+      "start": "109A0",
+      "end": "109FF"
+    },
+    {
+      "sg": "African Scripts",
+      "mb": "Meroitic",
+      "sb": "Meroitic Hieroglyphs",
+      "title": "10980-1099F",
+      "href": "https://www.unicode.org/charts/PDF/U10980.pdf",
+      "start": "10980",
+      "end": "1099F"
+    },
+    {
+      "sg": "African Scripts",
+      "mb": "N'Ko",
+      "title": "07C0-07FF",
+      "href": "https://www.unicode.org/charts/PDF/U07C0.pdf",
+      "start": "07C0",
+      "end": "07FF"
+    },
+    {
+      "sg": "African Scripts",
+      "mb": "Osmanya",
+      "title": "10480-104AF",
+      "href": "https://www.unicode.org/charts/PDF/U10480.pdf",
+      "start": "10480",
+      "end": "104AF"
+    },
+    {
+      "sg": "African Scripts",
+      "mb": "Tifinagh",
+      "title": "2D30-2D7F",
+      "href": "https://www.unicode.org/charts/PDF/U2D30.pdf",
+      "start": "2D30",
+      "end": "2D7F"
+    },
+    {
+      "sg": "African Scripts",
+      "mb": "Vai",
+      "title": "A500-A63F",
+      "href": "https://www.unicode.org/charts/PDF/UA500.pdf",
+      "start": "A500",
+      "end": "A63F"
+    },
+    {
+      "sg": "Middle Eastern Scripts",
+      "mb": "Anatolian Hieroglyphs",
+      "title": "14400-1467F",
+      "href": "https://www.unicode.org/charts/PDF/U14400.pdf",
+      "start": "14400",
+      "end": "1467F"
+    },
+    {
+      "sg": "Middle Eastern Scripts",
+      "mb": "Arabic",
+      "title": "0600-06FF",
+      "href": "https://www.unicode.org/charts/PDF/U0600.pdf",
+      "start": "0600",
+      "end": "06FF"
+    },
+    {
+      "sg": "Middle Eastern Scripts",
+      "mb": "Arabic",
+      "sb": "Arabic Supplement",
+      "title": "0750-077F",
+      "href": "https://www.unicode.org/charts/PDF/U0750.pdf",
+      "start": "0750",
+      "end": "077F"
+    },
+    {
+      "sg": "Middle Eastern Scripts",
+      "mb": "Arabic",
+      "sb": "Arabic Extended-A",
+      "title": "08A0-08FF",
+      "href": "https://www.unicode.org/charts/PDF/U08A0.pdf",
+      "start": "08A0",
+      "end": "08FF"
+    },
+    {
+      "sg": "Middle Eastern Scripts",
+      "mb": "Arabic",
+      "sb": "Arabic Extended-B",
+      "title": "0870–089F",
+      "href": "https://www.unicode.org/charts/PDF/U0870.pdf",
+      "start": "0870",
+      "end": "089F"
+    },
+    {
+      "sg": "Middle Eastern Scripts",
+      "mb": "Arabic",
+      "sb": "Arabic Extended-C",
+      "title": "10EC0–10EFF",
+      "href": "https://www.unicode.org/charts/PDF/U10EC0.pdf",
+      "start": "10EC0",
+      "end": "10EFF"
+    },
+    {
+      "sg": "Middle Eastern Scripts",
+      "mb": "Arabic",
+      "sb": "Arabic Presentation Forms-A",
+      "title": "FB50-FDFF",
+      "href": "https://www.unicode.org/charts/PDF/UFB50.pdf",
+      "start": "FB50",
+      "end": "FDFF"
+    },
+    {
+      "sg": "Middle Eastern Scripts",
+      "mb": "Arabic",
+      "sb": "Arabic Presentation Forms-B",
+      "title": "FE70-FEFF",
+      "href": "https://www.unicode.org/charts/PDF/UFE70.pdf",
+      "start": "FE70",
+      "end": "FEFF"
+    },
+    {
+      "sg": "Middle Eastern Scripts",
+      "mb": "Aramaic, Imperial",
+      "title": "10840-1085F",
+      "href": "https://www.unicode.org/charts/PDF/U10840.pdf",
+      "start": "10840",
+      "end": "1085F"
+    },
+    {
+      "sg": "Middle Eastern Scripts",
+      "mb": "Avestan",
+      "title": "10B00-10B3F",
+      "href": "https://www.unicode.org/charts/PDF/U10B00.pdf",
+      "start": "10B00",
+      "end": "10B3F"
+    },
+    {
+      "sg": "Middle Eastern Scripts",
+      "mb": "Chorasmian",
+      "title": "10FB0–10FDF",
+      "href": "https://www.unicode.org/charts/PDF/U10FB0.pdf",
+      "start": "10FB0",
+      "end": "10FDF"
+    },
+    {
+      "sg": "Middle Eastern Scripts",
+      "mb": "Cuneiform",
+      "title": "12000-123FF",
+      "href": "https://www.unicode.org/charts/PDF/U12000.pdf",
+      "start": "12000",
+      "end": "123FF"
+    },
+    {
+      "sg": "Middle Eastern Scripts",
+      "mb": "Cuneiform",
+      "sb": "Cuneiform Numbers and Punctuation",
+      "title": "12400-1247F",
+      "href": "https://www.unicode.org/charts/PDF/U12400.pdf",
+      "start": "12400",
+      "end": "1247F"
+    },
+    {
+      "sg": "Middle Eastern Scripts",
+      "mb": "Cuneiform",
+      "sb": "Early Dynastic Cuneiform",
+      "title": "12480-1254F",
+      "href": "https://www.unicode.org/charts/PDF/U12480.pdf",
+      "start": "12480",
+      "end": "1254F"
+    },
+    {
+      "sg": "Middle Eastern Scripts",
+      "mb": "Cuneiform",
+      "sb": "Old Persian",
+      "title": "103A0-103DF",
+      "href": "https://www.unicode.org/charts/PDF/U103A0.pdf",
+      "start": "103A0",
+      "end": "103DF"
+    },
+    {
+      "sg": "Middle Eastern Scripts",
+      "mb": "Cuneiform",
+      "sb": "Ugaritic",
+      "title": "10380-1039F",
+      "href": "https://www.unicode.org/charts/PDF/U10380.pdf",
+      "start": "10380",
+      "end": "1039F"
+    },
+    {
+      "sg": "Middle Eastern Scripts",
+      "mb": "Elymaic",
+      "title": "10FE0-10FFF",
+      "href": "https://www.unicode.org/charts/PDF/U10FE0.pdf",
+      "start": "10FE0",
+      "end": "10FFF"
+    },
+    {
+      "sg": "Middle Eastern Scripts",
+      "mb": "Hatran",
+      "title": "108E0-108FF",
+      "href": "https://www.unicode.org/charts/PDF/U108E0.pdf",
+      "start": "108E0",
+      "end": "108FF"
+    },
+    {
+      "sg": "Middle Eastern Scripts",
+      "mb": "Hebrew",
+      "title": "0590-05FF",
+      "href": "https://www.unicode.org/charts/PDF/U0590.pdf",
+      "start": "0590",
+      "end": "05FF"
+    },
+    {
+      "sg": "Middle Eastern Scripts",
+      "mb": "Hebrew",
+      "pb": "Hebrew Presentation Forms",
+      "title": "FB1D-FB4F",
+      "href": "https://www.unicode.org/charts/PDF/UFB00.pdf",
+      "start": "FB1D",
+      "end": "FB4F"
+    },
+    {
+      "sg": "Middle Eastern Scripts",
+      "mb": "Mandaic",
+      "title": "0840-085F",
+      "href": "https://www.unicode.org/charts/PDF/U0840.pdf",
+      "start": "0840",
+      "end": "085F"
+    },
+    {
+      "sg": "Middle Eastern Scripts",
+      "mb": "Nabataean",
+      "title": "10880-108AF",
+      "href": "https://www.unicode.org/charts/PDF/U10880.pdf",
+      "start": "10880",
+      "end": "108AF"
+    },
+    {
+      "sg": "Middle Eastern Scripts",
+      "mb": "Old North Arabian",
+      "title": "10A80-10A9F",
+      "href": "https://www.unicode.org/charts/PDF/U10A80.pdf",
+      "start": "10A80",
+      "end": "10A9F"
+    },
+    {
+      "sg": "Middle Eastern Scripts",
+      "mb": "Old South Arabian",
+      "title": "10A60-10A7F",
+      "href": "https://www.unicode.org/charts/PDF/U10A60.pdf",
+      "start": "10A60",
+      "end": "10A7F"
+    },
+    {
+      "sg": "Middle Eastern Scripts",
+      "mb": "Pahlavi, Inscriptional",
+      "title": "10B60-10B7F",
+      "href": "https://www.unicode.org/charts/PDF/U10B60.pdf",
+      "start": "10B60",
+      "end": "10B7F"
+    },
+    {
+      "sg": "Middle Eastern Scripts",
+      "mb": "Pahlavi, Psalter",
+      "title": "10B80-10BAF",
+      "href": "https://www.unicode.org/charts/PDF/U10B80.pdf",
+      "start": "10B80",
+      "end": "10BAF"
+    },
+    {
+      "sg": "Middle Eastern Scripts",
+      "mb": "Palmyrene",
+      "title": "10860-1087F",
+      "href": "https://www.unicode.org/charts/PDF/U10860.pdf",
+      "start": "10860",
+      "end": "1087F"
+    },
+    {
+      "sg": "Middle Eastern Scripts",
+      "mb": "Parthian, Inscriptional",
+      "title": "10B40-10B5F",
+      "href": "https://www.unicode.org/charts/PDF/U10B40.pdf",
+      "start": "10B40",
+      "end": "10B5F"
+    },
+    {
+      "sg": "Middle Eastern Scripts",
+      "mb": "Phoenician",
+      "title": "10900-1091F",
+      "href": "https://www.unicode.org/charts/PDF/U10900.pdf",
+      "start": "10900",
+      "end": "1091F"
+    },
+    {
+      "sg": "Middle Eastern Scripts",
+      "mb": "Samaritan",
+      "title": "0800-083F",
+      "href": "https://www.unicode.org/charts/PDF/U0800.pdf",
+      "start": "0800",
+      "end": "083F"
+    },
+    {
+      "sg": "Middle Eastern Scripts",
+      "mb": "Syriac",
+      "title": "0700-074F",
+      "href": "https://www.unicode.org/charts/PDF/U0700.pdf",
+      "start": "0700",
+      "end": "074F"
+    },
+    {
+      "sg": "Middle Eastern Scripts",
+      "mb": "Syriac",
+      "pb": "Syriac Supplement",
+      "title": "0860–086F",
+      "href": "https://www.unicode.org/charts/PDF/U0860.pdf",
+      "start": "0860",
+      "end": "086F"
+    },
+    {
+      "sg": "Middle Eastern Scripts",
+      "mb": "Yezidi",
+      "title": "10E80–10EBF",
+      "href": "https://www.unicode.org/charts/PDF/U10E80.pdf",
+      "start": "10E80",
+      "end": "10EBF"
+    },
+    {
+      "sg": "Central Asian Scripts",
+      "mb": "Manichaean",
+      "title": "10AC0-10AFF",
+      "href": "https://www.unicode.org/charts/PDF/U10AC0.pdf",
+      "start": "10AC0",
+      "end": "10AFF"
+    },
+    {
+      "sg": "Central Asian Scripts",
+      "mb": "Marchen",
+      "title": "11C70-11CBF",
+      "href": "https://www.unicode.org/charts/PDF/U11C70.pdf",
+      "start": "11C70",
+      "end": "11CBF"
+    },
+    {
+      "sg": "Central Asian Scripts",
+      "mb": "Mongolian",
+      "title": "1800-18AF",
+      "href": "https://www.unicode.org/charts/PDF/U1800.pdf",
+      "start": "1800",
+      "end": "18AF"
+    },
+    {
+      "sg": "Central Asian Scripts",
+      "mb": "Mongolian",
+      "sb": "Mongolian Supplement",
+      "title": "11660-1167F",
+      "href": "https://www.unicode.org/charts/PDF/U11660.pdf",
+      "start": "11660",
+      "end": "1167F"
+    },
+    {
+      "sg": "Central Asian Scripts",
+      "mb": "Old Sogdian",
+      "title": "10F00-10F2F",
+      "href": "https://www.unicode.org/charts/PDF/U10F00.pdf",
+      "start": "10F00",
+      "end": "10F2F"
+    },
+    {
+      "sg": "Central Asian Scripts",
+      "mb": "Old Turkic",
+      "title": "10C00-10C4F",
+      "href": "https://www.unicode.org/charts/PDF/U10C00.pdf",
+      "start": "10C00",
+      "end": "10C4F"
+    },
+    {
+      "sg": "Central Asian Scripts",
+      "mb": "Old Uyghur",
+      "title": "10F70–10FAF",
+      "href": "https://www.unicode.org/charts/PDF/U10F70.pdf",
+      "start": "10F70",
+      "end": "10FAF"
+    },
+    {
+      "sg": "Central Asian Scripts",
+      "mb": "Phags-Pa",
+      "title": "A840-A87F",
+      "href": "https://www.unicode.org/charts/PDF/UA840.pdf",
+      "start": "A840",
+      "end": "A87F"
+    },
+    {
+      "sg": "Central Asian Scripts",
+      "mb": "Sogdian",
+      "title": "10F30-10F6F",
+      "href": "https://www.unicode.org/charts/PDF/U10F30.pdf",
+      "start": "10F30",
+      "end": "10F6F"
+    },
+    {
+      "sg": "Central Asian Scripts",
+      "mb": "Soyombo",
+      "title": "11A50–11AAF",
+      "href": "https://www.unicode.org/charts/PDF/U11A50.pdf",
+      "start": "11A50",
+      "end": "11AAF"
+    },
+    {
+      "sg": "Central Asian Scripts",
+      "mb": "Tibetan",
+      "title": "0F00-0FFF",
+      "href": "https://www.unicode.org/charts/PDF/U0F00.pdf",
+      "start": "0F00",
+      "end": "0FFF"
+    },
+    {
+      "sg": "Central Asian Scripts",
+      "mb": "Zanabazar Square",
+      "title": "11A00–11A4F",
+      "href": "https://www.unicode.org/charts/PDF/U11A00.pdf",
+      "start": "11A00",
+      "end": "11A4F"
+    },
+    {
+      "sg": "South Asian Scripts",
+      "mb": "Ahom",
+      "title": "11700-1174F",
+      "href": "https://www.unicode.org/charts/PDF/U11700.pdf",
+      "start": "11700",
+      "end": "1174F"
+    },
+    {
+      "sg": "South Asian Scripts",
+      "mb": "Bengali and Assamese",
+      "title": "0980-09FF",
+      "href": "https://www.unicode.org/charts/PDF/U0980.pdf",
+      "start": "0980",
+      "end": "09FF"
+    },
+    {
+      "sg": "South Asian Scripts",
+      "mb": "Bhaiksuki",
+      "title": "11C00-11C6F",
+      "href": "https://www.unicode.org/charts/PDF/U11C00.pdf",
+      "start": "11C00",
+      "end": "11C6F"
+    },
+    {
+      "sg": "South Asian Scripts",
+      "mb": "Brahmi",
+      "title": "11000-1107F",
+      "href": "https://www.unicode.org/charts/PDF/U11000.pdf",
+      "start": "11000",
+      "end": "1107F"
+    },
+    {
+      "sg": "South Asian Scripts",
+      "mb": "Chakma",
+      "title": "11100-1114F",
+      "href": "https://www.unicode.org/charts/PDF/U11100.pdf",
+      "start": "11100",
+      "end": "1114F"
+    },
+    {
+      "sg": "South Asian Scripts",
+      "mb": "Devanagari",
+      "title": "0900-097F",
+      "href": "https://www.unicode.org/charts/PDF/U0900.pdf",
+      "start": "0900",
+      "end": "097F"
+    },
+    {
+      "sg": "South Asian Scripts",
+      "mb": "Devanagari",
+      "sb": "Devanagari Extended",
+      "title": "A8E0-A8FF",
+      "href": "https://www.unicode.org/charts/PDF/UA8E0.pdf",
+      "start": "A8E0",
+      "end": "A8FF"
+    },
+    {
+      "sg": "South Asian Scripts",
+      "mb": "Devanagari",
+      "sb": "Devanagari Extended-A",
+      "title": "11B00–11B5F",
+      "href": "https://www.unicode.org/charts/PDF/U11B00.pdf",
+      "start": "11B00",
+      "end": "11B5F"
+    },
+    {
+      "sg": "South Asian Scripts",
+      "mb": "Dives Akuru",
+      "title": "11900–1195F",
+      "href": "https://www.unicode.org/charts/PDF/U11900.pdf",
+      "start": "11900",
+      "end": "1195F"
+    },
+    {
+      "sg": "South Asian Scripts",
+      "mb": "Dogra",
+      "title": "11800-1184F",
+      "href": "https://www.unicode.org/charts/PDF/U11800.pdf",
+      "start": "11800",
+      "end": "1184F"
+    },
+    {
+      "sg": "South Asian Scripts",
+      "mb": "Grantha",
+      "title": "11300-1137F",
+      "href": "https://www.unicode.org/charts/PDF/U11300.pdf",
+      "start": "11300",
+      "end": "1137F"
+    },
+    {
+      "sg": "South Asian Scripts",
+      "mb": "Gujarati",
+      "title": "0A80-0AFF",
+      "href": "https://www.unicode.org/charts/PDF/U0A80.pdf",
+      "start": "0A80",
+      "end": "0AFF"
+    },
+    {
+      "sg": "South Asian Scripts",
+      "mb": "Gunjala Gondi",
+      "title": "11D60-11DAF",
+      "href": "https://www.unicode.org/charts/PDF/U11D60.pdf",
+      "start": "11D60",
+      "end": "11DAF"
+    },
+    {
+      "sg": "South Asian Scripts",
+      "mb": "Gurmukhi",
+      "title": "0A00-0A7F",
+      "href": "https://www.unicode.org/charts/PDF/U0A00.pdf",
+      "start": "0A00",
+      "end": "0A7F"
+    },
+    {
+      "sg": "South Asian Scripts",
+      "mb": "Gurung Khema",
+      "title": "16100-1613F",
+      "href": "https://www.unicode.org/charts/PDF/U16100.pdf",
+      "start": "16100",
+      "end": "1613F"
+    },
+    {
+      "sg": "South Asian Scripts",
+      "mb": "Kaithi",
+      "title": "11080-110CF",
+      "href": "https://www.unicode.org/charts/PDF/U11080.pdf",
+      "start": "11080",
+      "end": "110CF"
+    },
+    {
+      "sg": "South Asian Scripts",
+      "mb": "Kannada",
+      "title": "0C80-0CFF",
+      "href": "https://www.unicode.org/charts/PDF/U0C80.pdf",
+      "start": "0C80",
+      "end": "0CFF"
+    },
+    {
+      "sg": "South Asian Scripts",
+      "mb": "Kharoshthi",
+      "title": "10A00-10A5F",
+      "href": "https://www.unicode.org/charts/PDF/U10A00.pdf",
+      "start": "10A00",
+      "end": "10A5F"
+    },
+    {
+      "sg": "South Asian Scripts",
+      "mb": "Khojki",
+      "title": "11200-1124F",
+      "href": "https://www.unicode.org/charts/PDF/U11200.pdf",
+      "start": "11200",
+      "end": "1124F"
+    },
+    {
+      "sg": "South Asian Scripts",
+      "mb": "Kirat Rai",
+      "title": "16D40-16D7F",
+      "href": "https://www.unicode.org/charts/PDF/U16D40.pdf",
+      "start": "16D40",
+      "end": "16D7F"
+    },
+    {
+      "sg": "South Asian Scripts",
+      "mb": "Khudawadi",
+      "title": "112B0-112FF",
+      "href": "https://www.unicode.org/charts/PDF/U112B0.pdf",
+      "start": "112B0",
+      "end": "112FF"
+    },
+    {
+      "sg": "South Asian Scripts",
+      "mb": "Lepcha",
+      "title": "1C00-1C4F",
+      "href": "https://www.unicode.org/charts/PDF/U1C00.pdf",
+      "start": "1C00",
+      "end": "1C4F"
+    },
+    {
+      "sg": "South Asian Scripts",
+      "mb": "Limbu",
+      "title": "1900-194F",
+      "href": "https://www.unicode.org/charts/PDF/U1900.pdf",
+      "start": "1900",
+      "end": "194F"
+    },
+    {
+      "sg": "South Asian Scripts",
+      "mb": "Mahajani",
+      "title": "11150-1117F",
+      "href": "https://www.unicode.org/charts/PDF/U11150.pdf",
+      "start": "11150",
+      "end": "1117F"
+    },
+    {
+      "sg": "South Asian Scripts",
+      "mb": "Malayalam",
+      "title": "0D00-0D7F",
+      "href": "https://www.unicode.org/charts/PDF/U0D00.pdf",
+      "start": "0D00",
+      "end": "0D7F"
+    },
+    {
+      "sg": "South Asian Scripts",
+      "mb": "Masaram Gondi",
+      "title": "11D00–11D5F",
+      "href": "https://www.unicode.org/charts/PDF/U11D00.pdf",
+      "start": "11D00",
+      "end": "11D5F"
+    },
+    {
+      "sg": "South Asian Scripts",
+      "mb": "Meetei Mayek",
+      "title": "ABC0-ABFF",
+      "href": "https://www.unicode.org/charts/PDF/UABC0.pdf",
+      "start": "ABC0",
+      "end": "ABFF"
+    },
+    {
+      "sg": "South Asian Scripts",
+      "mb": "Meetei Mayek",
+      "sb": "Meetei Mayek Extensions",
+      "title": "AAE0-AAFF",
+      "href": "https://www.unicode.org/charts/PDF/UAAE0.pdf",
+      "start": "AAE0",
+      "end": "AAFF"
+    },
+    {
+      "sg": "South Asian Scripts",
+      "mb": "Modi",
+      "title": "11600-1165F",
+      "href": "https://www.unicode.org/charts/PDF/U11600.pdf",
+      "start": "11600",
+      "end": "1165F"
+    },
+    {
+      "sg": "South Asian Scripts",
+      "mb": "Mro",
+      "title": "16A40-16A6F",
+      "href": "https://www.unicode.org/charts/PDF/U16A40.pdf",
+      "start": "16A40",
+      "end": "16A6F"
+    },
+    {
+      "sg": "South Asian Scripts",
+      "mb": "Multani",
+      "title": "11280-112AF",
+      "href": "https://www.unicode.org/charts/PDF/U11280.pdf",
+      "start": "11280",
+      "end": "112AF"
+    },
+    {
+      "sg": "South Asian Scripts",
+      "mb": "Nag Mundari",
+      "title": "1E4D0–1E4FF",
+      "href": "https://www.unicode.org/charts/PDF/U1E4D0.pdf",
+      "start": "1E4D0",
+      "end": "1E4FF"
+    },
+    {
+      "sg": "South Asian Scripts",
+      "mb": "Nandinagari",
+      "title": "119A0-119FF",
+      "href": "https://www.unicode.org/charts/PDF/U119A0.pdf",
+      "start": "119A0",
+      "end": "119FF"
+    },
+    {
+      "sg": "South Asian Scripts",
+      "mb": "Newa",
+      "title": "11400-1147F",
+      "href": "https://www.unicode.org/charts/PDF/U11400.pdf",
+      "start": "11400",
+      "end": "1147F"
+    },
+    {
+      "sg": "South Asian Scripts",
+      "mb": "Ol Chiki",
+      "title": "1C50-1C7F",
+      "href": "https://www.unicode.org/charts/PDF/U1C50.pdf",
+      "start": "1C50",
+      "end": "1C7F"
+    },
+    {
+      "sg": "South Asian Scripts",
+      "mb": "Ol Onal",
+      "title": "1E5D0-1E5FF",
+      "href": "https://www.unicode.org/charts/PDF/U1E5D0.pdf",
+      "start": "1E5D0",
+      "end": "1E5FF"
+    },
+    {
+      "sg": "South Asian Scripts",
+      "mb": "Oriya (Odia)",
+      "title": "0B00-0B7F",
+      "href": "https://www.unicode.org/charts/PDF/U0B00.pdf",
+      "start": "0B00",
+      "end": "0B7F"
+    },
+    {
+      "sg": "South Asian Scripts",
+      "mb": "Saurashtra",
+      "title": "A880-A8DF",
+      "href": "https://www.unicode.org/charts/PDF/UA880.pdf",
+      "start": "A880",
+      "end": "A8DF"
+    },
+    {
+      "sg": "South Asian Scripts",
+      "mb": "Sharada",
+      "title": "11180-111DF",
+      "href": "https://www.unicode.org/charts/PDF/U11180.pdf",
+      "start": "11180",
+      "end": "111DF"
+    },
+    {
+      "sg": "South Asian Scripts",
+      "mb": "Siddham",
+      "title": "11580-115FF",
+      "href": "https://www.unicode.org/charts/PDF/U11580.pdf",
+      "start": "11580",
+      "end": "115FF"
+    },
+    {
+      "sg": "South Asian Scripts",
+      "mb": "Sinhala",
+      "title": "0D80-0DFF",
+      "href": "https://www.unicode.org/charts/PDF/U0D80.pdf",
+      "start": "0D80",
+      "end": "0DFF"
+    },
+    {
+      "sg": "South Asian Scripts",
+      "mb": "Sinhala",
+      "sb": "Sinhala Archaic Numbers",
+      "title": "111E0-111FF",
+      "href": "https://www.unicode.org/charts/PDF/U111E0.pdf",
+      "start": "111E0",
+      "end": "111FF"
+    },
+    {
+      "sg": "South Asian Scripts",
+      "mb": "Sora Sompeng",
+      "title": "110D0-110FF",
+      "href": "https://www.unicode.org/charts/PDF/U110D0.pdf",
+      "start": "110D0",
+      "end": "110FF"
+    },
+    {
+      "sg": "South Asian Scripts",
+      "mb": "Sunuwar",
+      "title": "11BC0-11BFF",
+      "href": "https://www.unicode.org/charts/PDF/U11BC0.pdf",
+      "start": "11BC0",
+      "end": "11BFF"
+    },
+    {
+      "sg": "South Asian Scripts",
+      "mb": "Syloti Nagri",
+      "title": "A800-A82F",
+      "href": "https://www.unicode.org/charts/PDF/UA800.pdf",
+      "start": "A800",
+      "end": "A82F"
+    },
+    {
+      "sg": "South Asian Scripts",
+      "mb": "Takri",
+      "title": "11680-116CF",
+      "href": "https://www.unicode.org/charts/PDF/U11680.pdf",
+      "start": "11680",
+      "end": "116CF"
+    },
+    {
+      "sg": "South Asian Scripts",
+      "mb": "Tamil",
+      "title": "0B80-0BFF",
+      "href": "https://www.unicode.org/charts/PDF/U0B80.pdf",
+      "start": "0B80",
+      "end": "0BFF"
+    },
+    {
+      "sg": "South Asian Scripts",
+      "mb": "Tamil",
+      "sb": "Tamil Supplement",
+      "title": "11FC0-11FFF",
+      "href": "https://www.unicode.org/charts/PDF/U11FC0.pdf",
+      "start": "11FC0",
+      "end": "11FFF"
+    },
+    {
+      "sg": "South Asian Scripts",
+      "mb": "Telugu",
+      "title": "0C00-0C7F",
+      "href": "https://www.unicode.org/charts/PDF/U0C00.pdf",
+      "start": "0C00",
+      "end": "0C7F"
+    },
+    {
+      "sg": "South Asian Scripts",
+      "mb": "Thaana",
+      "title": "0780-07BF",
+      "href": "https://www.unicode.org/charts/PDF/U0780.pdf",
+      "start": "0780",
+      "end": "07BF"
+    },
+    {
+      "sg": "South Asian Scripts",
+      "mb": "Tirhuta",
+      "title": "11480-114DF",
+      "href": "https://www.unicode.org/charts/PDF/U11480.pdf",
+      "start": "11480",
+      "end": "114DF"
+    },
+    {
+      "sg": "South Asian Scripts",
+      "mb": "Toto",
+      "title": "1E290–1E2BF",
+      "href": "https://www.unicode.org/charts/PDF/U1E290.pdf",
+      "start": "1E290",
+      "end": "1E2BF"
+    },
+    {
+      "sg": "South Asian Scripts",
+      "mb": "Tulu-Tigalari",
+      "title": "11380–113FF",
+      "href": "https://www.unicode.org/charts/PDF/U11380.pdf",
+      "start": "11380",
+      "end": "113FF"
+    },
+    {
+      "sg": "South Asian Scripts",
+      "mb": "Vedic Extensions",
+      "title": "1CD0-1CFF",
+      "href": "https://www.unicode.org/charts/PDF/U1CD0.pdf",
+      "start": "1CD0",
+      "end": "1CFF"
+    },
+    {
+      "sg": "South Asian Scripts",
+      "mb": "Wancho",
+      "title": "1E2C0-1E2FF",
+      "href": "https://www.unicode.org/charts/PDF/U1E2C0.pdf",
+      "start": "1E2C0",
+      "end": "1E2FF"
+    },
+    {
+      "sg": "South Asian Scripts",
+      "mb": "Warang Citi",
+      "title": "118A0-118FF",
+      "href": "https://www.unicode.org/charts/PDF/U118A0.pdf",
+      "start": "118A0",
+      "end": "118FF"
+    },
+    {
+      "sg": "Southeast Asian Scripts",
+      "mb": "Cham",
+      "title": "AA00-AA5F",
+      "href": "https://www.unicode.org/charts/PDF/UAA00.pdf",
+      "start": "AA00",
+      "end": "AA5F"
+    },
+    {
+      "sg": "Southeast Asian Scripts",
+      "mb": "Hanifi Rohingya",
+      "title": "10D00-10D3F",
+      "href": "https://www.unicode.org/charts/PDF/U10D00.pdf",
+      "start": "10D00",
+      "end": "10D3F"
+    },
+    {
+      "sg": "Southeast Asian Scripts",
+      "mb": "Kayah Li",
+      "title": "A900-A92F",
+      "href": "https://www.unicode.org/charts/PDF/UA900.pdf",
+      "start": "A900",
+      "end": "A92F"
+    },
+    {
+      "sg": "Southeast Asian Scripts",
+      "mb": "Khmer",
+      "title": "1780-17FF",
+      "href": "https://www.unicode.org/charts/PDF/U1780.pdf",
+      "start": "1780",
+      "end": "17FF"
+    },
+    {
+      "sg": "Southeast Asian Scripts",
+      "mb": "Khmer",
+      "sb": "Khmer Symbols",
+      "title": "19E0-19FF",
+      "href": "https://www.unicode.org/charts/PDF/U19E0.pdf",
+      "start": "19E0",
+      "end": "19FF"
+    },
+    {
+      "sg": "Southeast Asian Scripts",
+      "mb": "Lao",
+      "title": "0E80-0EFF",
+      "href": "https://www.unicode.org/charts/PDF/U0E80.pdf",
+      "start": "0E80",
+      "end": "0EFF"
+    },
+    {
+      "sg": "Southeast Asian Scripts",
+      "mb": "Myanmar",
+      "title": "1000-109F",
+      "href": "https://www.unicode.org/charts/PDF/U1000.pdf",
+      "start": "1000",
+      "end": "109F"
+    },
+    {
+      "sg": "Southeast Asian Scripts",
+      "mb": "Myanmar",
+      "sb": "Myanmar Extended-A",
+      "title": "AA60-AA7F",
+      "href": "https://www.unicode.org/charts/PDF/UAA60.pdf",
+      "start": "AA60",
+      "end": "AA7F"
+    },
+    {
+      "sg": "Southeast Asian Scripts",
+      "mb": "Myanmar",
+      "sb": "Myanmar Extended-B",
+      "title": "A9E0-A9FF",
+      "href": "https://www.unicode.org/charts/PDF/UA9E0.pdf",
+      "start": "A9E0",
+      "end": "A9FF"
+    },
+    {
+      "sg": "Southeast Asian Scripts",
+      "mb": "Myanmar",
+      "sb": "Myanmar Extended-C",
+      "title": "116D0-116FF",
+      "href": "https://www.unicode.org/charts/PDF/U116D0.pdf",
+      "start": "116D0",
+      "end": "116FF"
+    },
+    {
+      "sg": "Southeast Asian Scripts",
+      "mb": "New Tai Lue",
+      "title": "1980-19DF",
+      "href": "https://www.unicode.org/charts/PDF/U1980.pdf",
+      "start": "1980",
+      "end": "19DF"
+    },
+    {
+      "sg": "Southeast Asian Scripts",
+      "mb": "Nyiakeng Puachue Hmong",
+      "title": "1E100-1E14F",
+      "href": "https://www.unicode.org/charts/PDF/U1E100.pdf",
+      "start": "1E100",
+      "end": "1E14F"
+    },
+    {
+      "sg": "Southeast Asian Scripts",
+      "mb": "Pahawh Hmong",
+      "title": "16B00-16B8F",
+      "href": "https://www.unicode.org/charts/PDF/U16B00.pdf",
+      "start": "16B00",
+      "end": "16B8F"
+    },
+    {
+      "sg": "Southeast Asian Scripts",
+      "mb": "Pau Cin Hau",
+      "title": "11AC0-11AFF",
+      "href": "https://www.unicode.org/charts/PDF/U11AC0.pdf",
+      "start": "11AC0",
+      "end": "11AFF"
+    },
+    {
+      "sg": "Southeast Asian Scripts",
+      "mb": "Tai Le",
+      "title": "1950-197F",
+      "href": "https://www.unicode.org/charts/PDF/U1950.pdf",
+      "start": "1950",
+      "end": "197F"
+    },
+    {
+      "sg": "Southeast Asian Scripts",
+      "mb": "Tai Tham",
+      "title": "1A20-1AAF",
+      "href": "https://www.unicode.org/charts/PDF/U1A20.pdf",
+      "start": "1A20",
+      "end": "1AAF"
+    },
+    {
+      "sg": "Southeast Asian Scripts",
+      "mb": "Tai Viet",
+      "title": "AA80-AADF",
+      "href": "https://www.unicode.org/charts/PDF/UAA80.pdf",
+      "start": "AA80",
+      "end": "AADF"
+    },
+    {
+      "sg": "Southeast Asian Scripts",
+      "mb": "Tangsa",
+      "title": "16A70–16ACF",
+      "href": "https://www.unicode.org/charts/PDF/U16A70.pdf",
+      "start": "16A70",
+      "end": "16ACF"
+    },
+    {
+      "sg": "Southeast Asian Scripts",
+      "mb": "Thai",
+      "title": "0E00-0E7F",
+      "href": "https://www.unicode.org/charts/PDF/U0E00.pdf",
+      "start": "0E00",
+      "end": "0E7F"
+    },
+    {
+      "sg": "Indonesian & Philippine Scripts",
+      "mb": "Balinese",
+      "title": "1B00-1B7F",
+      "href": "https://www.unicode.org/charts/PDF/U1B00.pdf",
+      "start": "1B00",
+      "end": "1B7F"
+    },
+    {
+      "sg": "Indonesian & Philippine Scripts",
+      "mb": "Batak",
+      "title": "1BC0-1BFF",
+      "href": "https://www.unicode.org/charts/PDF/U1BC0.pdf",
+      "start": "1BC0",
+      "end": "1BFF"
+    },
+    {
+      "sg": "Indonesian & Philippine Scripts",
+      "mb": "Buginese",
+      "title": "1A00-1A1F",
+      "href": "https://www.unicode.org/charts/PDF/U1A00.pdf",
+      "start": "1A00",
+      "end": "1A1F"
+    },
+    {
+      "sg": "Indonesian & Philippine Scripts",
+      "mb": "Buhid",
+      "title": "1740-175F",
+      "href": "https://www.unicode.org/charts/PDF/U1740.pdf",
+      "start": "1740",
+      "end": "175F"
+    },
+    {
+      "sg": "Indonesian & Philippine Scripts",
+      "mb": "Hanunoo",
+      "title": "1720-173F",
+      "href": "https://www.unicode.org/charts/PDF/U1720.pdf",
+      "start": "1720",
+      "end": "173F"
+    },
+    {
+      "sg": "Indonesian & Philippine Scripts",
+      "mb": "Javanese",
+      "title": "A980-A9DF",
+      "href": "https://www.unicode.org/charts/PDF/UA980.pdf",
+      "start": "A980",
+      "end": "A9DF"
+    },
+    {
+      "sg": "Indonesian & Philippine Scripts",
+      "mb": "Kawi",
+      "title": "11F00–11F5F",
+      "href": "https://www.unicode.org/charts/PDF/U11F00.pdf",
+      "start": "11F00",
+      "end": "11F5F"
+    },
+    {
+      "sg": "Indonesian & Philippine Scripts",
+      "mb": "Makasar",
+      "title": "11EE0-11EFF",
+      "href": "https://www.unicode.org/charts/PDF/U11EE0.pdf",
+      "start": "11EE0",
+      "end": "11EFF"
+    },
+    {
+      "sg": "Indonesian & Philippine Scripts",
+      "mb": "Rejang",
+      "title": "A930-A95F",
+      "href": "https://www.unicode.org/charts/PDF/UA930.pdf",
+      "start": "A930",
+      "end": "A95F"
+    },
+    {
+      "sg": "Indonesian & Philippine Scripts",
+      "mb": "Sundanese",
+      "title": "1B80-1BBF",
+      "href": "https://www.unicode.org/charts/PDF/U1B80.pdf",
+      "start": "1B80",
+      "end": "1BBF"
+    },
+    {
+      "sg": "Indonesian & Philippine Scripts",
+      "mb": "Sundanese",
+      "sb": "Sundanese Supplement",
+      "title": "1CC0-1CCF",
+      "href": "https://www.unicode.org/charts/PDF/U1CC0.pdf",
+      "start": "1CC0",
+      "end": "1CCF"
+    },
+    {
+      "sg": "Indonesian & Philippine Scripts",
+      "mb": "Tagalog",
+      "title": "1700-171F",
+      "href": "https://www.unicode.org/charts/PDF/U1700.pdf",
+      "start": "1700",
+      "end": "171F"
+    },
+    {
+      "sg": "Indonesian & Philippine Scripts",
+      "mb": "Tagbanwa",
+      "title": "1760-177F",
+      "href": "https://www.unicode.org/charts/PDF/U1760.pdf",
+      "start": "1760",
+      "end": "177F"
+    },
+    {
+      "sg": "East Asian Scripts",
+      "mb": "Bopomofo",
+      "title": "3100-312F",
+      "href": "https://www.unicode.org/charts/PDF/U3100.pdf",
+      "start": "3100",
+      "end": "312F"
+    },
+    {
+      "sg": "East Asian Scripts",
+      "mb": "Bopomofo",
+      "sb": "Bopomofo Extended",
+      "title": "31A0-31BF",
+      "href": "https://www.unicode.org/charts/PDF/U31A0.pdf",
+      "start": "31A0",
+      "end": "31BF"
+    },
+    {
+      "sg": "East Asian Scripts",
+      "mb": "CJK Unified Ideographs (Han)",
+      "title": "4E00-9FFF",
+      "href": "https://www.unicode.org/charts/PDF/U4E00.pdf",
+      "start": "4E00",
+      "end": "9FFF"
+    },
+    {
+      "sg": "East Asian Scripts",
+      "mb": "CJK Unified Ideographs (Han)",
+      "sb": "CJK Extension A",
+      "title": "3400-4DBF",
+      "href": "https://www.unicode.org/charts/PDF/U3400.pdf",
+      "start": "3400",
+      "end": "4DBF"
+    },
+    {
+      "sg": "East Asian Scripts",
+      "mb": "CJK Unified Ideographs (Han)",
+      "sb": "CJK Extension B",
+      "title": "20000-2A6DF",
+      "href": "https://www.unicode.org/charts/PDF/U20000.pdf",
+      "start": "20000",
+      "end": "2A6DF"
+    },
+    {
+      "sg": "East Asian Scripts",
+      "mb": "CJK Unified Ideographs (Han)",
+      "sb": "CJK Extension C",
+      "title": "2A700-2B73F",
+      "href": "https://www.unicode.org/charts/PDF/U2A700.pdf",
+      "start": "2A700",
+      "end": "2B73F"
+    },
+    {
+      "sg": "East Asian Scripts",
+      "mb": "CJK Unified Ideographs (Han)",
+      "sb": "CJK Extension D",
+      "title": "2B740-2B81F",
+      "href": "https://www.unicode.org/charts/PDF/U2B740.pdf",
+      "start": "2B740",
+      "end": "2B81F"
+    },
+    {
+      "sg": "East Asian Scripts",
+      "mb": "CJK Unified Ideographs (Han)",
+      "sb": "CJK Extension E",
+      "title": "2B820-2CEAF",
+      "href": "https://www.unicode.org/charts/PDF/U2B820.pdf",
+      "start": "2B820",
+      "end": "2CEAF"
+    },
+    {
+      "sg": "East Asian Scripts",
+      "mb": "CJK Unified Ideographs (Han)",
+      "sb": "CJK Extension F",
+      "title": "2CEB0–2EBEF",
+      "href": "https://www.unicode.org/charts/PDF/U2CEB0.pdf",
+      "start": "2CEB0",
+      "end": "2EBEF"
+    },
+    {
+      "sg": "East Asian Scripts",
+      "mb": "CJK Unified Ideographs (Han)",
+      "sb": "CJK Extension G",
+      "title": "30000–3134F",
+      "href": "https://www.unicode.org/charts/PDF/U30000.pdf",
+      "start": "30000",
+      "end": "3134F"
+    },
+    {
+      "sg": "East Asian Scripts",
+      "mb": "CJK Unified Ideographs (Han)",
+      "sb": "CJK Extension H",
+      "title": "31350–323AF",
+      "href": "https://www.unicode.org/charts/PDF/U31350.pdf",
+      "start": "31350",
+      "end": "323AF"
+    },
+    {
+      "sg": "East Asian Scripts",
+      "mb": "CJK Unified Ideographs (Han)",
+      "sb": "CJK Extension I",
+      "title": "2EBF0–2EE5F",
+      "href": "https://www.unicode.org/charts/PDF/U2EBF0.pdf",
+      "start": "2EBF0",
+      "end": "2EE5F"
+    },
+    {
+      "sg": "East Asian Scripts",
+      "mb": "CJK Compatibility Ideographs",
+      "title": "F900-FAFF",
+      "href": "https://www.unicode.org/charts/PDF/UF900.pdf",
+      "start": "F900",
+      "end": "FAFF"
+    },
+    {
+      "sg": "East Asian Scripts",
+      "mb": "CJK Compatibility Ideographs",
+      "sb": "CJK Compatibility Ideographs Supplement",
+      "title": "2F800-2FA1F",
+      "href": "https://www.unicode.org/charts/PDF/U2F800.pdf",
+      "start": "2F800",
+      "end": "2FA1F"
+    },
+    {
+      "sg": "East Asian Scripts",
+      "mb": "CJK Radicals / Kangxi Radicals",
+      "title": "2F00-2FDF",
+      "href": "https://www.unicode.org/charts/PDF/U2F00.pdf",
+      "start": "2F00",
+      "end": "2FDF"
+    },
+    {
+      "sg": "East Asian Scripts",
+      "mb": "CJK Radicals / Kangxi Radicals",
+      "sb": "CJK Radicals Supplement",
+      "title": "2E80-2EFF",
+      "href": "https://www.unicode.org/charts/PDF/U2E80.pdf",
+      "start": "2E80",
+      "end": "2EFF"
+    },
+    {
+      "sg": "East Asian Scripts",
+      "mb": "CJK Radicals / Kangxi Radicals",
+      "sb": "CJK Strokes",
+      "title": "31C0-31EF",
+      "href": "https://www.unicode.org/charts/PDF/U31C0.pdf",
+      "start": "31C0",
+      "end": "31EF"
+    },
+    {
+      "sg": "East Asian Scripts",
+      "mb": "CJK Radicals / Kangxi Radicals",
+      "sb": "Ideographic Description Characters",
+      "title": "2FF0-2FFF",
+      "href": "https://www.unicode.org/charts/PDF/U2FF0.pdf",
+      "start": "2FF0",
+      "end": "2FFF"
+    },
+    {
+      "sg": "East Asian Scripts",
+      "mb": "Hangul Jamo",
+      "title": "1100-11FF",
+      "href": "https://www.unicode.org/charts/PDF/U1100.pdf",
+      "start": "1100",
+      "end": "11FF"
+    },
+    {
+      "sg": "East Asian Scripts",
+      "mb": "Hangul Jamo",
+      "sb": "Hangul Jamo Extended-A",
+      "title": "A960-A97F",
+      "href": "https://www.unicode.org/charts/PDF/UA960.pdf",
+      "start": "A960",
+      "end": "A97F"
+    },
+    {
+      "sg": "East Asian Scripts",
+      "mb": "Hangul Jamo",
+      "sb": "Hangul Jamo Extended-B",
+      "title": "D7B0-D7FF",
+      "href": "https://www.unicode.org/charts/PDF/UD7B0.pdf",
+      "start": "D7B0",
+      "end": "D7FF"
+    },
+    {
+      "sg": "East Asian Scripts",
+      "mb": "Hangul Jamo",
+      "sb": "Hangul Compatibility Jamo",
+      "title": "3130-318F",
+      "href": "https://www.unicode.org/charts/PDF/U3130.pdf",
+      "start": "3130",
+      "end": "318F"
+    },
+    {
+      "sg": "East Asian Scripts",
+      "mb": "Hangul Jamo",
+      "pb": "Halfwidth Jamo",
+      "title": "FFA0-FFDC",
+      "href": "https://www.unicode.org/charts/PDF/UFF00.pdf",
+      "start": "FFA0",
+      "end": "FFDC"
+    },
+    {
+      "sg": "East Asian Scripts",
+      "mb": "Hangul Syllables",
+      "title": "AC00-D7AF",
+      "href": "https://www.unicode.org/charts/PDF/UAC00.pdf",
+      "start": "AC00",
+      "end": "D7AF"
+    },
+    {
+      "sg": "East Asian Scripts",
+      "mb": "Hiragana",
+      "title": "3040-309F",
+      "href": "https://www.unicode.org/charts/PDF/U3040.pdf",
+      "start": "3040",
+      "end": "309F"
+    },
+    {
+      "sg": "East Asian Scripts",
+      "mb": "Kana Extended-A",
+      "title": "1B100–1B12F",
+      "href": "https://www.unicode.org/charts/PDF/U1B100.pdf",
+      "start": "1B100",
+      "end": "1B12F"
+    },
+    {
+      "sg": "East Asian Scripts",
+      "mb": "Kana Extended-B",
+      "title": "1AFF0–1AFFF",
+      "href": "https://www.unicode.org/charts/PDF/U1AFF0.pdf",
+      "start": "1AFF0",
+      "end": "1AFFF"
+    },
+    {
+      "sg": "East Asian Scripts",
+      "mb": "Kana Supplement",
+      "title": "1B000-1B0FF",
+      "href": "https://www.unicode.org/charts/PDF/U1B000.pdf",
+      "start": "1B000",
+      "end": "1B0FF"
+    },
+    {
+      "sg": "East Asian Scripts",
+      "mb": "Small Kana Extension",
+      "title": "1B130-1B16F",
+      "href": "https://www.unicode.org/charts/PDF/U1B130.pdf",
+      "start": "1B130",
+      "end": "1B16F"
+    },
+    {
+      "sg": "East Asian Scripts",
+      "mb": "Kanbun",
+      "title": "3190-319F",
+      "href": "https://www.unicode.org/charts/PDF/U3190.pdf",
+      "start": "3190",
+      "end": "319F"
+    },
+    {
+      "sg": "East Asian Scripts",
+      "mb": "Katakana",
+      "title": "30A0-30FF",
+      "href": "https://www.unicode.org/charts/PDF/U30A0.pdf",
+      "start": "30A0",
+      "end": "30FF"
+    },
+    {
+      "sg": "East Asian Scripts",
+      "mb": "Katakana",
+      "sb": "Katakana Phonetic Extensions",
+      "title": "31F0-31FF",
+      "href": "https://www.unicode.org/charts/PDF/U31F0.pdf",
+      "start": "31F0",
+      "end": "31FF"
+    },
+    {
+      "sg": "East Asian Scripts",
+      "mb": "Katakana",
+      "pb": "Halfwidth Katakana",
+      "title": "FF65-FF9F",
+      "href": "https://www.unicode.org/charts/PDF/UFF00.pdf",
+      "start": "FF65",
+      "end": "FF9F"
+    },
+    {
+      "sg": "East Asian Scripts",
+      "mb": "Khitan Small Script",
+      "title": "18B00–18CFF",
+      "href": "https://www.unicode.org/charts/PDF/U18B00.pdf",
+      "start": "18B00",
+      "end": "18CFF"
+    },
+    {
+      "sg": "East Asian Scripts",
+      "mb": "Lisu",
+      "title": "A4D0-A4FF",
+      "href": "https://www.unicode.org/charts/PDF/UA4D0.pdf",
+      "start": "A4D0",
+      "end": "A4FF"
+    },
+    {
+      "sg": "East Asian Scripts",
+      "mb": "Lisu",
+      "sb": "Lisu Supplement",
+      "title": "11FB0–11FBF",
+      "href": "https://www.unicode.org/charts/PDF/U11FB0.pdf",
+      "start": "11FB0",
+      "end": "11FBF"
+    },
+    {
+      "sg": "East Asian Scripts",
+      "mb": "Miao",
+      "title": "16F00-16F9F",
+      "href": "https://www.unicode.org/charts/PDF/U16F00.pdf",
+      "start": "16F00",
+      "end": "16F9F"
+    },
+    {
+      "sg": "East Asian Scripts",
+      "mb": "Nushu",
+      "title": "1B170–1B2FF",
+      "href": "https://www.unicode.org/charts/PDF/U1B170.pdf",
+      "start": "1B170",
+      "end": "1B2FF"
+    },
+    {
+      "sg": "East Asian Scripts",
+      "mb": "Tangut",
+      "title": "17000-187FF",
+      "href": "https://www.unicode.org/charts/PDF/U17000.pdf",
+      "start": "17000",
+      "end": "187FF"
+    },
+    {
+      "sg": "East Asian Scripts",
+      "mb": "Tangut",
+      "sb": "Tangut Components",
+      "title": "18800-18AFF",
+      "href": "https://www.unicode.org/charts/PDF/U18800.pdf",
+      "start": "18800",
+      "end": "18AFF"
+    },
+    {
+      "sg": "East Asian Scripts",
+      "mb": "Tangut",
+      "sb": "Tangut Supplement",
+      "title": "18D00–18D08",
+      "href": "https://www.unicode.org/charts/PDF/U18D00.pdf",
+      "start": "18D00",
+      "end": "18D08"
+    },
+    {
+      "sg": "East Asian Scripts",
+      "mb": "Yi",
+      "sb": "Yi Syllables",
+      "title": "A000-A48F",
+      "href": "https://www.unicode.org/charts/PDF/UA000.pdf",
+      "start": "A000",
+      "end": "A48F"
+    },
+    {
+      "sg": "East Asian Scripts",
+      "mb": "Yi",
+      "sb": "Yi Radicals",
+      "title": "A490-A4CF",
+      "href": "https://www.unicode.org/charts/PDF/UA490.pdf",
+      "start": "A490",
+      "end": "A4CF"
+    },
+    {
+      "sg": "American Scripts",
+      "mb": "Cherokee",
+      "title": "13A0-13FF",
+      "href": "https://www.unicode.org/charts/PDF/U13A0.pdf",
+      "start": "13A0",
+      "end": "13FF"
+    },
+    {
+      "sg": "American Scripts",
+      "mb": "Cherokee",
+      "sb": "Cherokee Supplement",
+      "title": "AB70-ABBF",
+      "href": "https://www.unicode.org/charts/PDF/UAB70.pdf",
+      "start": "AB70",
+      "end": "ABBF"
+    },
+    {
+      "sg": "American Scripts",
+      "mb": "Deseret",
+      "title": "10400-1044F",
+      "href": "https://www.unicode.org/charts/PDF/U10400.pdf",
+      "start": "10400",
+      "end": "1044F"
+    },
+    {
+      "sg": "American Scripts",
+      "mb": "Osage",
+      "title": "104B0-104FF",
+      "href": "https://www.unicode.org/charts/PDF/U104B0.pdf",
+      "start": "104B0",
+      "end": "104FF"
+    },
+    {
+      "sg": "American Scripts",
+      "mb": "Unified Canadian Aboriginal Syllabics",
+      "title": "1400-167F",
+      "href": "https://www.unicode.org/charts/PDF/U1400.pdf",
+      "start": "1400",
+      "end": "167F"
+    },
+    {
+      "sg": "American Scripts",
+      "mb": "Unified Canadian Aboriginal Syllabics",
+      "sb": "UCAS Extended",
+      "title": "18B0-18FF",
+      "href": "https://www.unicode.org/charts/PDF/U18B0.pdf",
+      "start": "18B0",
+      "end": "18FF"
+    },
+    {
+      "sg": "American Scripts",
+      "mb": "Unified Canadian Aboriginal Syllabics",
+      "sb": "UCAS Extended-A",
+      "title": "11AB0–11ABF",
+      "href": "https://www.unicode.org/charts/PDF/U11AB0.pdf",
+      "start": "11AB0",
+      "end": "11ABF"
+    },
+    {
+      "sg": "Notational Systems",
+      "mb": "Braille Patterns",
+      "title": "2800-28FF",
+      "href": "https://www.unicode.org/charts/PDF/U2800.pdf",
+      "start": "2800",
+      "end": "28FF"
+    },
+    {
+      "sg": "Notational Systems",
+      "mb": "Musical Symbols",
+      "title": "1D100-1D1FF",
+      "href": "https://www.unicode.org/charts/PDF/U1D100.pdf",
+      "start": "1D100",
+      "end": "1D1FF"
+    },
+    {
+      "sg": "Notational Systems",
+      "mb": "Musical Symbols",
+      "sb": "Ancient Greek Musical Notation",
+      "title": "1D200-1D24F",
+      "href": "https://www.unicode.org/charts/PDF/U1D200.pdf",
+      "start": "1D200",
+      "end": "1D24F"
+    },
+    {
+      "sg": "Notational Systems",
+      "mb": "Musical Symbols",
+      "sb": "Byzantine Musical Symbols",
+      "title": "1D000-1D0FF",
+      "href": "https://www.unicode.org/charts/PDF/U1D000.pdf",
+      "start": "1D000",
+      "end": "1D0FF"
+    },
+    {
+      "sg": "Notational Systems",
+      "mb": "Musical Symbols",
+      "sb": "Znamenny Musical Notation",
+      "title": "1CF00–1CFCF",
+      "href": "https://www.unicode.org/charts/PDF/U1CF00.pdf",
+      "start": "1CF00",
+      "end": "1CFCF"
+    },
+    {
+      "sg": "Notational Systems",
+      "mb": "Duployan",
+      "title": "1BC00-1BC9F",
+      "href": "https://www.unicode.org/charts/PDF/U1BC00.pdf",
+      "start": "1BC00",
+      "end": "1BC9F"
+    },
+    {
+      "sg": "Notational Systems",
+      "mb": "Duployan",
+      "sb": "Shorthand Format Controls",
+      "title": "1BCA0-1BCAF",
+      "href": "https://www.unicode.org/charts/PDF/U1BCA0.pdf",
+      "start": "1BCA0",
+      "end": "1BCAF"
+    },
+    {
+      "sg": "Notational Systems",
+      "mb": "Sutton SignWriting",
+      "title": "1D800-1DAAF",
+      "href": "https://www.unicode.org/charts/PDF/U1D800.pdf",
+      "start": "1D800",
+      "end": "1DAAF"
+    },
+    {
+      "sg": "Punctuation",
+      "mb": "General Punctuation",
+      "title": "2000-206F",
+      "href": "https://www.unicode.org/charts/PDF/U2000.pdf",
+      "start": "2000",
+      "end": "206F"
+    },
+    {
+      "sg": "Punctuation",
+      "mb": "General Punctuation",
+      "pb": "ASCII Punctuation",
+      "title": "0021-007F",
+      "href": "https://www.unicode.org/charts/PDF/U0000.pdf",
+      "start": "0021",
+      "end": "007F"
+    },
+    {
+      "sg": "Punctuation",
+      "mb": "General Punctuation",
+      "pb": "Latin-1 Punctuation",
+      "title": "00A1-00BF",
+      "href": "https://www.unicode.org/charts/PDF/U0080.pdf",
+      "start": "00A1",
+      "end": "00BF"
+    },
+    {
+      "sg": "Punctuation",
+      "mb": "General Punctuation",
+      "sb": "Supplemental Punctuation",
+      "title": "2E00-2E7F",
+      "href": "https://www.unicode.org/charts/PDF/U2E00.pdf",
+      "start": "2E00",
+      "end": "2E7F"
+    },
+    {
+      "sg": "Punctuation",
+      "mb": "CJK Symbols and Punctuation",
+      "title": "3000-303F",
+      "href": "https://www.unicode.org/charts/PDF/U3000.pdf",
+      "start": "3000",
+      "end": "303F"
+    },
+    {
+      "sg": "Punctuation",
+      "mb": "CJK Symbols and Punctuation",
+      "sb": "Ideographic Symbols and Punctuation",
+      "title": "16FE0-16FFF",
+      "href": "https://www.unicode.org/charts/PDF/U16FE0.pdf",
+      "start": "16FE0",
+      "end": "16FFF"
+    },
+    {
+      "sg": "Punctuation",
+      "mb": "CJK Compatibility Forms",
+      "title": "FE30-FE4F",
+      "href": "https://www.unicode.org/charts/PDF/UFE30.pdf",
+      "start": "FE30",
+      "end": "FE4F"
+    },
+    {
+      "sg": "Punctuation",
+      "mb": "CJK Compatibility Forms",
+      "sb": "Halfwidth and Fullwidth Forms",
+      "title": "FF00-FFEF",
+      "href": "https://www.unicode.org/charts/PDF/UFF00.pdf",
+      "start": "FF00",
+      "end": "FFEF"
+    },
+    {
+      "sg": "Punctuation",
+      "mb": "CJK Compatibility Forms",
+      "sb": "Small Form Variants",
+      "title": "FE50-FE6F",
+      "href": "https://www.unicode.org/charts/PDF/UFE50.pdf",
+      "start": "FE50",
+      "end": "FE6F"
+    },
+    {
+      "sg": "Punctuation",
+      "mb": "CJK Compatibility Forms",
+      "sb": "Vertical Forms",
+      "title": "FE10-FE1F",
+      "href": "https://www.unicode.org/charts/PDF/UFE10.pdf",
+      "start": "FE10",
+      "end": "FE1F"
+    },
+    {
+      "sg": "Alphanumeric Symbols",
+      "mb": "Letterlike Symbols",
+      "title": "2100-214F",
+      "href": "https://www.unicode.org/charts/PDF/U2100.pdf",
+      "start": "2100",
+      "end": "214F"
+    },
+    {
+      "sg": "Alphanumeric Symbols",
+      "mb": "Letterlike Symbols",
+      "pb": "Roman Symbols",
+      "title": "10190-101CF",
+      "href": "https://www.unicode.org/charts/PDF/U10190.pdf",
+      "start": "10190",
+      "end": "101CF"
+    },
+    {
+      "sg": "Alphanumeric Symbols",
+      "mb": "Mathematical Alphanumeric Symbols",
+      "title": "1D400-1D7FF",
+      "href": "https://www.unicode.org/charts/PDF/U1D400.pdf",
+      "start": "1D400",
+      "end": "1D7FF"
+    },
+    {
+      "sg": "Alphanumeric Symbols",
+      "mb": "Arabic Mathematical Alphabetic Symbols",
+      "title": "1EE00-1EEFF",
+      "href": "https://www.unicode.org/charts/PDF/U1EE00.pdf",
+      "start": "1EE00",
+      "end": "1EEFF"
+    },
+    {
+      "sg": "Alphanumeric Symbols",
+      "mb": "Enclosed Alphanumerics",
+      "title": "2460-24FF",
+      "href": "https://www.unicode.org/charts/PDF/U2460.pdf",
+      "start": "2460",
+      "end": "24FF"
+    },
+    {
+      "sg": "Alphanumeric Symbols",
+      "mb": "Enclosed Alphanumerics",
+      "sb": "Enclosed Alphanumeric Supplement",
+      "title": "1F100-1F1FF",
+      "href": "https://www.unicode.org/charts/PDF/U1F100.pdf",
+      "start": "1F100",
+      "end": "1F1FF"
+    },
+    {
+      "sg": "Alphanumeric Symbols",
+      "mb": "Enclosed CJK Letters and Months",
+      "title": "3200-32FF",
+      "href": "https://www.unicode.org/charts/PDF/U3200.pdf",
+      "start": "3200",
+      "end": "32FF"
+    },
+    {
+      "sg": "Alphanumeric Symbols",
+      "mb": "Enclosed CJK Letters and Months",
+      "sb": "Enclosed Ideographic Supplement",
+      "title": "1F200-1F2FF",
+      "href": "https://www.unicode.org/charts/PDF/U1F200.pdf",
+      "start": "1F200",
+      "end": "1F2FF"
+    },
+    {
+      "sg": "Alphanumeric Symbols",
+      "mb": "CJK Compatibility",
+      "title": "3300-33FF",
+      "href": "https://www.unicode.org/charts/PDF/U3300.pdf",
+      "start": "3300",
+      "end": "33FF"
+    },
+    {
+      "sg": "Alphanumeric Symbols",
+      "mb": "CJK Compatibility",
+      "pb": "Additional Squared Symbols",
+      "title": "2100-214F",
+      "href": "https://www.unicode.org/charts/PDF/U2100.pdf",
+      "start": "2100",
+      "end": "214F"
+    },
+    {
+      "sg": "Technical Symbols",
+      "mb": null,
+      "pb": "APL symbols",
+      "title": "2336-237A",
+      "href": "https://www.unicode.org/charts/PDF/U2300.pdf",
+      "start": "2336",
+      "end": "237A"
+    },
+    {
+      "sg": "Technical Symbols",
+      "mb": null,
+      "sb": "Control Pictures",
+      "title": "2400-243F",
+      "href": "https://www.unicode.org/charts/PDF/U2400.pdf",
+      "start": "2400",
+      "end": "243F"
+    },
+    {
+      "sg": "Technical Symbols",
+      "mb": null,
+      "sb": "Miscellaneous Technical",
+      "title": "2300-23FF",
+      "href": "https://www.unicode.org/charts/PDF/U2300.pdf",
+      "start": "2300",
+      "end": "23FF"
+    },
+    {
+      "sg": "Technical Symbols",
+      "mb": null,
+      "sb": "Optical Character Recognition (OCR)",
+      "title": "2440-245F",
+      "href": "https://www.unicode.org/charts/PDF/U2440.pdf",
+      "start": "2440",
+      "end": "245F"
+    },
+    {
+      "sg": "Numbers & Digits",
+      "mb": "ASCII Digits",
+      "title": "0030-0039",
+      "href": "https://www.unicode.org/charts/PDF/U0000.pdf",
+      "start": "0030",
+      "end": "0039"
+    },
+    {
+      "sg": "Numbers & Digits",
+      "mb": "ASCII Digits",
+      "pb": "Fullwidth ASCII Digits",
+      "title": "FF10-FF19",
+      "href": "https://www.unicode.org/charts/PDF/UFF00.pdf",
+      "start": "FF10",
+      "end": "FF19"
+    },
+    {
+      "sg": "Numbers & Digits",
+      "mb": "Common Indic Number Forms",
+      "title": "A830-A83F",
+      "href": "https://www.unicode.org/charts/PDF/UA830.pdf",
+      "start": "A830",
+      "end": "A83F"
+    },
+    {
+      "sg": "Numbers & Digits",
+      "mb": "Coptic Epact Numbers",
+      "title": "102E0-102FF",
+      "href": "https://www.unicode.org/charts/PDF/U102E0.pdf",
+      "start": "102E0",
+      "end": "102FF"
+    },
+    {
+      "sg": "Numbers & Digits",
+      "mb": "Counting Rod Numerals",
+      "title": "1D360-1D37F",
+      "href": "https://www.unicode.org/charts/PDF/U1D360.pdf",
+      "start": "1D360",
+      "end": "1D37F"
+    },
+    {
+      "sg": "Numbers & Digits",
+      "mb": "Cuneiform Numbers and Punctuation",
+      "title": "12400-1247F",
+      "href": "https://www.unicode.org/charts/PDF/U12400.pdf",
+      "start": "12400",
+      "end": "1247F"
+    },
+    {
+      "sg": "Numbers & Digits",
+      "mb": "Indic Siyaq Numbers",
+      "title": "1EC70-1ECBF",
+      "href": "https://www.unicode.org/charts/PDF/U1EC70.pdf",
+      "start": "1EC70",
+      "end": "1ECBF"
+    },
+    {
+      "sg": "Numbers & Digits",
+      "mb": "Kaktovik Numerals",
+      "title": "1D2C0–1D2DF",
+      "href": "https://www.unicode.org/charts/PDF/U1D2C0.pdf",
+      "start": "1D2C0",
+      "end": "1D2DF"
+    },
+    {
+      "sg": "Numbers & Digits",
+      "mb": "Mayan Numerals",
+      "title": "1D2E0-1D2FF",
+      "href": "https://www.unicode.org/charts/PDF/U1D2E0.pdf",
+      "start": "1D2E0",
+      "end": "1D2FF"
+    },
+    {
+      "sg": "Numbers & Digits",
+      "mb": "Number Forms",
+      "title": "2150-218F",
+      "href": "https://www.unicode.org/charts/PDF/U2150.pdf",
+      "start": "2150",
+      "end": "218F"
+    },
+    {
+      "sg": "Numbers & Digits",
+      "mb": "Ottoman Siyaq Numbers",
+      "title": "1ED00-1ED4F",
+      "href": "https://www.unicode.org/charts/PDF/U1ED00.pdf",
+      "start": "1ED00",
+      "end": "1ED4F"
+    },
+    {
+      "sg": "Numbers & Digits",
+      "mb": "Rumi Numeral Symbols",
+      "title": "10E60-10E7F",
+      "href": "https://www.unicode.org/charts/PDF/U10E60.pdf",
+      "start": "10E60",
+      "end": "10E7F"
+    },
+    {
+      "sg": "Numbers & Digits",
+      "mb": "Sinhala Archaic Numbers",
+      "title": "111E0-111FF",
+      "href": "https://www.unicode.org/charts/PDF/U111E0.pdf",
+      "start": "111E0",
+      "end": "111FF"
+    },
+    {
+      "sg": "Numbers & Digits",
+      "mb": "Super and Subscripts",
+      "title": "2070-209F",
+      "href": "https://www.unicode.org/charts/PDF/U2070.pdf",
+      "start": "2070",
+      "end": "209F"
+    },
+    {
+      "sg": "Mathematical Symbols",
+      "mb": "Arrows",
+      "title": "2190-21FF",
+      "href": "https://www.unicode.org/charts/PDF/U2190.pdf",
+      "start": "2190",
+      "end": "21FF"
+    },
+    {
+      "sg": "Mathematical Symbols",
+      "mb": "Arrows",
+      "sb": "Supplemental Arrows-A",
+      "title": "27F0-27FF",
+      "href": "https://www.unicode.org/charts/PDF/U27F0.pdf",
+      "start": "27F0",
+      "end": "27FF"
+    },
+    {
+      "sg": "Mathematical Symbols",
+      "mb": "Arrows",
+      "sb": "Supplemental Arrows-B",
+      "title": "2900-297F",
+      "href": "https://www.unicode.org/charts/PDF/U2900.pdf",
+      "start": "2900",
+      "end": "297F"
+    },
+    {
+      "sg": "Mathematical Symbols",
+      "mb": "Arrows",
+      "sb": "Supplemental Arrows-C",
+      "title": "1F800-1F8FF",
+      "href": "https://www.unicode.org/charts/PDF/U1F800.pdf",
+      "start": "1F800",
+      "end": "1F8FF"
+    },
+    {
+      "sg": "Mathematical Symbols",
+      "mb": "Arrows",
+      "pb": "Additional Arrows",
+      "title": "2B00-2BFF",
+      "href": "https://www.unicode.org/charts/PDF/U2B00.pdf",
+      "start": "2B00",
+      "end": "2BFF"
+    },
+    {
+      "sg": "Mathematical Symbols",
+      "mb": "Arrows",
+      "sb": "Miscellaneous Symbols and Arrows",
+      "title": "2B00-2BFF",
+      "href": "https://www.unicode.org/charts/PDF/U2B00.pdf",
+      "start": "2B00",
+      "end": "2BFF"
+    },
+    {
+      "sg": "Mathematical Symbols",
+      "mb": "Mathematical Alphanumeric Symbols",
+      "title": "1D400-1D7FF",
+      "href": "https://www.unicode.org/charts/PDF/U1D400.pdf",
+      "start": "1D400",
+      "end": "1D7FF"
+    },
+    {
+      "sg": "Mathematical Symbols",
+      "mb": "Mathematical Alphanumeric Symbols",
+      "sb": "Arabic Mathematical Alphabetic Symbols",
+      "title": "1EE00-1EEFF",
+      "href": "https://www.unicode.org/charts/PDF/U1EE00.pdf",
+      "start": "1EE00",
+      "end": "1EEFF"
+    },
+    {
+      "sg": "Mathematical Symbols",
+      "mb": "Mathematical Alphanumeric Symbols",
+      "sb": "Letterlike Symbols",
+      "title": "2100-214F",
+      "href": "https://www.unicode.org/charts/PDF/U2100.pdf",
+      "start": "2100",
+      "end": "214F"
+    },
+    {
+      "sg": "Mathematical Symbols",
+      "mb": "Mathematical Operators",
+      "title": "2200-22FF",
+      "href": "https://www.unicode.org/charts/PDF/U2200.pdf",
+      "start": "2200",
+      "end": "22FF"
+    },
+    {
+      "sg": "Mathematical Symbols",
+      "mb": "Mathematical Operators",
+      "sb": "Supplemental Mathematical Operators",
+      "title": "2A00-2AFF",
+      "href": "https://www.unicode.org/charts/PDF/U2A00.pdf",
+      "start": "2A00",
+      "end": "2AFF"
+    },
+    {
+      "sg": "Mathematical Symbols",
+      "mb": "Mathematical Operators",
+      "sb": "Miscellaneous Mathematical Symbols-A",
+      "title": "27C0-27EF",
+      "href": "https://www.unicode.org/charts/PDF/U27C0.pdf",
+      "start": "27C0",
+      "end": "27EF"
+    },
+    {
+      "sg": "Mathematical Symbols",
+      "mb": "Mathematical Operators",
+      "sb": "Miscellaneous Mathematical Symbols-B",
+      "title": "2980-29FF",
+      "href": "https://www.unicode.org/charts/PDF/U2980.pdf",
+      "start": "2980",
+      "end": "29FF"
+    },
+    {
+      "sg": "Mathematical Symbols",
+      "mb": "Mathematical Operators",
+      "pb": "Floors and Ceilings",
+      "title": "2308-230B",
+      "href": "https://www.unicode.org/charts/PDF/U2300.pdf",
+      "start": "2308",
+      "end": "230B"
+    },
+    {
+      "sg": "Mathematical Symbols",
+      "mb": "Mathematical Operators",
+      "pb": "Invisible Operators",
+      "title": "2061-2064",
+      "href": "https://www.unicode.org/charts/PDF/U2000.pdf",
+      "start": "2061",
+      "end": "2064"
+    },
+    {
+      "sg": "Mathematical Symbols",
+      "mb": "Geometric Shapes",
+      "title": "25A0-25FF",
+      "href": "https://www.unicode.org/charts/PDF/U25A0.pdf",
+      "start": "25A0",
+      "end": "25FF"
+    },
+    {
+      "sg": "Mathematical Symbols",
+      "mb": "Geometric Shapes",
+      "pb": "Additional Shapes",
+      "title": "2B00-2BFF",
+      "href": "https://www.unicode.org/charts/PDF/U2B00.pdf",
+      "start": "2B00",
+      "end": "2BFF"
+    },
+    {
+      "sg": "Mathematical Symbols",
+      "mb": "Geometric Shapes",
+      "sb": "Box Drawing",
+      "title": "2500-257F",
+      "href": "https://www.unicode.org/charts/PDF/U2500.pdf",
+      "start": "2500",
+      "end": "257F"
+    },
+    {
+      "sg": "Mathematical Symbols",
+      "mb": "Geometric Shapes",
+      "sb": "Block Elements",
+      "title": "2580-259F",
+      "href": "https://www.unicode.org/charts/PDF/U2580.pdf",
+      "start": "2580",
+      "end": "259F"
+    },
+    {
+      "sg": "Mathematical Symbols",
+      "mb": "Geometric Shapes",
+      "sb": "Geometric Shapes Extended",
+      "title": "1F780-1F7FF",
+      "href": "https://www.unicode.org/charts/PDF/U1F780.pdf",
+      "start": "1F780",
+      "end": "1F7FF"
+    },
+    {
+      "sg": "Emoji & Pictographs",
+      "mb": "Dingbats",
+      "title": "2700-27BF",
+      "href": "https://www.unicode.org/charts/PDF/U2700.pdf",
+      "start": "2700",
+      "end": "27BF"
+    },
+    {
+      "sg": "Emoji & Pictographs",
+      "mb": "Dingbats",
+      "sb": "Ornamental Dingbats",
+      "title": "1F650-1F67F",
+      "href": "https://www.unicode.org/charts/PDF/U1F650.pdf",
+      "start": "1F650",
+      "end": "1F67F"
+    },
+    {
+      "sg": "Emoji & Pictographs",
+      "mb": "Emoticons",
+      "title": "1F600-1F64F",
+      "href": "https://www.unicode.org/charts/PDF/U1F600.pdf",
+      "start": "1F600",
+      "end": "1F64F"
+    },
+    {
+      "sg": "Emoji & Pictographs",
+      "mb": "Miscellaneous Symbols",
+      "title": "2600-26FF",
+      "href": "https://www.unicode.org/charts/PDF/U2600.pdf",
+      "start": "2600",
+      "end": "26FF"
+    },
+    {
+      "sg": "Emoji & Pictographs",
+      "mb": "Miscellaneous Symbols And Pictographs",
+      "title": "1F300-1F5FF",
+      "href": "https://www.unicode.org/charts/PDF/U1F300.pdf",
+      "start": "1F300",
+      "end": "1F5FF"
+    },
+    {
+      "sg": "Emoji & Pictographs",
+      "mb": "Supplemental Symbols and Pictographs",
+      "title": "1F900-1F9FF",
+      "href": "https://www.unicode.org/charts/PDF/U1F900.pdf",
+      "start": "1F900",
+      "end": "1F9FF"
+    },
+    {
+      "sg": "Emoji & Pictographs",
+      "mb": "Symbols and Pictographs Extended-A",
+      "title": "1FA70-1FAFF",
+      "href": "https://www.unicode.org/charts/PDF/U1FA70.pdf",
+      "start": "1FA70",
+      "end": "1FAFF"
+    },
+    {
+      "sg": "Emoji & Pictographs",
+      "mb": "Transport and Map Symbols",
+      "title": "1F680-1F6FF",
+      "href": "https://www.unicode.org/charts/PDF/U1F680.pdf",
+      "start": "1F680",
+      "end": "1F6FF"
+    },
+    {
+      "sg": "Other Symbols",
+      "mb": "Alchemical Symbols",
+      "title": "1F700-1F77F",
+      "href": "https://www.unicode.org/charts/PDF/U1F700.pdf",
+      "start": "1F700",
+      "end": "1F77F"
+    },
+    {
+      "sg": "Other Symbols",
+      "mb": "Ancient Symbols",
+      "title": "10190-101CF",
+      "href": "https://www.unicode.org/charts/PDF/U10190.pdf",
+      "start": "10190",
+      "end": "101CF"
+    },
+    {
+      "sg": "Other Symbols",
+      "mb": "Currency Symbols",
+      "title": "20A0-20CF",
+      "href": "https://www.unicode.org/charts/PDF/U20A0.pdf",
+      "start": "20A0",
+      "end": "20CF"
+    },
+    {
+      "sg": "Other Symbols",
+      "mb": "Currency Symbols",
+      "pb": "Dollar Sign",
+      "title": "0024",
+      "href": "https://www.unicode.org/charts/PDF/U0000.pdf",
+      "start": "0024"
+    },
+    {
+      "sg": "Other Symbols",
+      "mb": "Currency Symbols",
+      "pb": "Euro Sign",
+      "title": "20AC",
+      "href": "https://www.unicode.org/charts/PDF/U20A0.pdf",
+      "start": "20AC"
+    },
+    {
+      "sg": "Other Symbols",
+      "mb": "Currency Symbols",
+      "pb": "Yen, Pound and Cent",
+      "title": "00A2-00A5",
+      "href": "https://www.unicode.org/charts/PDF/U0080.pdf",
+      "start": "00A2",
+      "end": "00A5"
+    },
+    {
+      "sg": "Other Symbols",
+      "mb": "Currency Symbols",
+      "pb": "Fullwidth Currency Symbols",
+      "title": "FF04",
+      "href": "https://www.unicode.org/charts/PDF/UFF00.pdf",
+      "start": "FF04"
+    },
+    {
+      "sg": "Other Symbols",
+      "mb": "Currency Symbols",
+      "pb": "Rial Sign",
+      "title": "FB50",
+      "href": "https://www.unicode.org/charts/PDF/UFB50.pdf",
+      "start": "FB50"
+    },
+    {
+      "sg": "Other Symbols",
+      "mb": "Game Symbols",
+      "pb": "Chess, Checkers/Draughts",
+      "title": "2654-265F, 26C0-26C3",
+      "href": "https://www.unicode.org/charts/PDF/U2600.pdf",
+      "start": "2654-265F, 26C0-26C3"
+    },
+    {
+      "sg": "Other Symbols",
+      "mb": "Game Symbols",
+      "sb": "Chess Symbols",
+      "title": "1FA00-1FA6F",
+      "href": "https://www.unicode.org/charts/PDF/U1FA00.pdf",
+      "start": "1FA00",
+      "end": "1FA6F"
+    },
+    {
+      "sg": "Other Symbols",
+      "mb": "Game Symbols",
+      "sb": "Domino Tiles",
+      "title": "1F030-1F09F",
+      "href": "https://www.unicode.org/charts/PDF/U1F030.pdf",
+      "start": "1F030",
+      "end": "1F09F"
+    },
+    {
+      "sg": "Other Symbols",
+      "mb": "Game Symbols",
+      "pb": "Japanese Chess",
+      "title": "2616-2617",
+      "href": "https://www.unicode.org/charts/PDF/U2600.pdf",
+      "start": "2616",
+      "end": "2617"
+    },
+    {
+      "sg": "Other Symbols",
+      "mb": "Game Symbols",
+      "sb": "Mahjong Tiles",
+      "title": "1F000-1F02F",
+      "href": "https://www.unicode.org/charts/PDF/U1F000.pdf",
+      "start": "1F000",
+      "end": "1F02F"
+    },
+    {
+      "sg": "Other Symbols",
+      "mb": "Game Symbols",
+      "sb": "Playing Cards",
+      "title": "1F0A0-1F0FF",
+      "href": "https://www.unicode.org/charts/PDF/U1F0A0.pdf",
+      "start": "1F0A0",
+      "end": "1F0FF"
+    },
+    {
+      "sg": "Other Symbols",
+      "mb": "Game Symbols",
+      "pb": "Card suits",
+      "title": "2660-2667",
+      "href": "https://www.unicode.org/charts/PDF/U2600.pdf",
+      "start": "2660",
+      "end": "2667"
+    },
+    {
+      "sg": "Other Symbols",
+      "mb": "Miscellaneous Symbols and Arrows",
+      "title": "2B00-2BFF",
+      "href": "https://www.unicode.org/charts/PDF/U2B00.pdf",
+      "start": "2B00",
+      "end": "2BFF"
+    },
+    {
+      "sg": "Other Symbols",
+      "mb": "Symbols for Legacy Computing",
+      "title": "1FB00–1FBFF",
+      "href": "https://www.unicode.org/charts/PDF/U1FB00.pdf",
+      "start": "1FB00",
+      "end": "1FBFF"
+    },
+    {
+      "sg": "Other Symbols",
+      "mb": "Symbols for Legacy Computing",
+      "sb": "Symbols for Legacy Computing Supplement",
+      "title": "1CC00-1CEBF",
+      "href": "https://www.unicode.org/charts/PDF/U1CC00.pdf",
+      "start": "1CC00",
+      "end": "1CEBF"
+    },
+    {
+      "sg": "Other Symbols",
+      "mb": "Yijing Symbols",
+      "pb": "Yijing Mono-, Di- and Trigrams",
+      "title": "268A-268F, 2630-2637",
+      "href": "https://www.unicode.org/charts/PDF/U2600.pdf",
+      "start": "268A-268F, 2630-2637"
+    },
+    {
+      "sg": "Other Symbols",
+      "mb": "Yijing Symbols",
+      "sb": "Yijing Hexagram Symbols",
+      "title": "4DC0-4DFF",
+      "href": "https://www.unicode.org/charts/PDF/U4DC0.pdf",
+      "start": "4DC0",
+      "end": "4DFF"
+    },
+    {
+      "sg": "Other Symbols",
+      "mb": "Yijing Symbols",
+      "sb": "Tai Xuan Jing Symbols",
+      "title": "1D300-1D35F",
+      "href": "https://www.unicode.org/charts/PDF/U1D300.pdf",
+      "start": "1D300",
+      "end": "1D35F"
+    },
+    {
+      "sg": "Specials",
+      "mb": null,
+      "pb": "C0",
+      "title": "0000-001F",
+      "href": "https://www.unicode.org/charts/PDF/U0000.pdf",
+      "start": "0000",
+      "end": "001F"
+    },
+    {
+      "sg": "Specials",
+      "mb": null,
+      "pb": "C1",
+      "title": "0080-009F",
+      "href": "https://www.unicode.org/charts/PDF/U0080.pdf",
+      "start": "0080",
+      "end": "009F"
+    },
+    {
+      "sg": "Specials",
+      "mb": null,
+      "pb": "Layout Controls",
+      "title": "2000-206F",
+      "href": "https://www.unicode.org/charts/PDF/U2000.pdf",
+      "start": "2000",
+      "end": "206F"
+    },
+    {
+      "sg": "Specials",
+      "mb": null,
+      "pb": "Invisible Operators",
+      "title": "2061-2064",
+      "href": "https://www.unicode.org/charts/PDF/U2000.pdf",
+      "start": "2061",
+      "end": "2064"
+    },
+    {
+      "sg": "Specials",
+      "mb": "Specials",
+      "title": "FFF0-FFFF",
+      "href": "https://www.unicode.org/charts/PDF/UFFF0.pdf",
+      "start": "FFF0",
+      "end": "FFFF"
+    },
+    {
+      "sg": "Specials",
+      "mb": "Tags",
+      "title": "E0000-E007F",
+      "href": "https://www.unicode.org/charts/PDF/UE0000.pdf",
+      "start": "E0000",
+      "end": "E007F"
+    },
+    {
+      "sg": "Specials",
+      "mb": "Variation Selectors",
+      "title": "FE00-FE0F",
+      "href": "https://www.unicode.org/charts/PDF/UFE00.pdf",
+      "start": "FE00",
+      "end": "FE0F"
+    },
+    {
+      "sg": "Specials",
+      "mb": "Variation Selectors",
+      "sb": "Variation Selectors Supplement",
+      "title": "E0100-E01EF",
+      "href": "https://www.unicode.org/charts/PDF/UE0100.pdf",
+      "start": "E0100",
+      "end": "E01EF"
+    },
+    {
+      "sg": "Private Use",
+      "mb": "Private Use Area",
+      "title": "E000-F8FF",
+      "href": "https://www.unicode.org/charts/PDF/UE000.pdf",
+      "start": "E000",
+      "end": "F8FF"
+    },
+    {
+      "sg": "Private Use",
+      "mb": "Supplementary Private Use Area-A",
+      "title": "F0000-FFFFD",
+      "href": "https://www.unicode.org/charts/PDF/UF0000.pdf",
+      "start": "F0000",
+      "end": "FFFFD"
+    },
+    {
+      "sg": "Private Use",
+      "mb": "Supplementary Private Use Area-B",
+      "title": "100000-10FFFD",
+      "href": "https://www.unicode.org/charts/PDF/U100000.pdf",
+      "start": "100000",
+      "end": "10FFFD"
+    },
+    {
+      "sg": "Surrogates",
+      "mb": "High Surrogates",
+      "title": "D800-DBFF",
+      "href": "https://www.unicode.org/charts/PDF/UD800.pdf",
+      "start": "D800",
+      "end": "DBFF"
+    },
+    {
+      "sg": "Surrogates",
+      "mb": "Low Surrogates",
+      "title": "DC00-DFFF",
+      "href": "https://www.unicode.org/charts/PDF/UDC00.pdf",
+      "start": "DC00",
+      "end": "DFFF"
+    },
+    {
+      "sg": "Noncharacters in Charts",
+      "mb": "Noncharacters in blocks",
+      "pb": "Range in Arabic Presentation Forms-A",
+      "title": "FDD0-FDEF",
+      "href": "https://www.unicode.org/charts/PDF/UFB50.pdf",
+      "start": "FDD0",
+      "end": "FDEF"
+    },
+    {
+      "sg": "Noncharacters in Charts",
+      "mb": "Noncharacters in blocks",
+      "pb": "Range in Specials",
+      "title": "FFFE-FFFF ",
+      "href": "https://www.unicode.org/charts/PDF/UFFF0.pdf",
+      "start": "FFFE",
+      "end": "FFFF"
+    }
+  ]
